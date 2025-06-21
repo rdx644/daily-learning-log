@@ -16,3 +16,7 @@ Auto-updated via contribution script.
 ### Entry 2025-06-20 00:59:39 (#3)
 - **Activity:** Studied OAuth 2.0 and JWT token flows
 - **Reflection:** Key takeaway: simplicity beats complexity in production.
+
+### Entry 2025-06-21 00:59:39 (#4)
+- **Activity:** Read about K-Means clustering for user behaviour analytics
+- **Reflection:** Built a small prototype to test the concept.
