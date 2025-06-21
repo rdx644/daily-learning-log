@@ -20,3 +20,7 @@ Auto-updated via contribution script.
 ### Entry 2025-06-21 00:59:39 (#4)
 - **Activity:** Read about K-Means clustering for user behaviour analytics
 - **Reflection:** Built a small prototype to test the concept.
+
+### Entry 2025-06-21 00:59:39 (#5)
+- **Activity:** Studied GAN architecture for image generation
+- **Reflection:** Need to explore this further with real datasets.
