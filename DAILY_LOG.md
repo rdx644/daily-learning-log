@@ -28,3 +28,7 @@ Auto-updated via contribution script.
 ### Entry 2025-06-22 00:59:39 (#6)
 - **Activity:** Reviewed Docker and container orchestration concepts
 - **Reflection:** Need to explore this further with real datasets.
+
+### Entry 2025-06-22 00:59:39 (#7)
+- **Activity:** Revisited AWS IAM roles and policy best practices
+- **Reflection:** Made progress on understanding core abstractions.
