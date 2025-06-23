@@ -44,3 +44,7 @@ Auto-updated via contribution script.
 ### Entry 2025-06-23 00:59:39 (#10)
 - **Activity:** Reviewed network packet analysis with Wireshark
 - **Reflection:** Noting this for my ML Summer School prep.
+
+### Entry 2025-06-23 00:59:39 (#11)
+- **Activity:** Revisited AWS IAM roles and policy best practices
+- **Reflection:** This will be useful for future cloud security work.
