@@ -48,3 +48,7 @@ Auto-updated via contribution script.
 ### Entry 2025-06-23 00:59:39 (#11)
 - **Activity:** Revisited AWS IAM roles and policy best practices
 - **Reflection:** This will be useful for future cloud security work.
+
+### Entry 2025-06-24 00:59:39 (#12)
+- **Activity:** Studied reinforcement learning reward functions
+- **Reflection:** Found an interesting paper to read next.
