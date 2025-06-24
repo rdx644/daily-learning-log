@@ -56,3 +56,7 @@ Auto-updated via contribution script.
 ### Entry 2025-06-24 00:59:39 (#13)
 - **Activity:** Read about K-Means clustering for user behaviour analytics
 - **Reflection:** This will be useful for future cloud security work.
+
+### Entry 2025-06-24 00:59:39 (#14)
+- **Activity:** Reviewed Docker and container orchestration concepts
+- **Reflection:** This pattern appears frequently in production systems.
