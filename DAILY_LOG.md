@@ -64,3 +64,7 @@ Auto-updated via contribution script.
 ### Entry 2025-06-24 00:59:39 (#15)
 - **Activity:** Revisited AWS IAM roles and policy best practices
 - **Reflection:** Good reference material found — bookmarked.
+
+### Entry 2025-06-24 00:59:39 (#16)
+- **Activity:** Reviewed Docker and container orchestration concepts
+- **Reflection:** Noting this for my ML Summer School prep.
