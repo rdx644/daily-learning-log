@@ -52,3 +52,7 @@ Auto-updated via contribution script.
 ### Entry 2025-06-24 00:59:39 (#12)
 - **Activity:** Studied reinforcement learning reward functions
 - **Reflection:** Found an interesting paper to read next.
+
+### Entry 2025-06-24 00:59:39 (#13)
+- **Activity:** Read about K-Means clustering for user behaviour analytics
+- **Reflection:** This will be useful for future cloud security work.
