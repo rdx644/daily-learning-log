@@ -68,3 +68,7 @@ Auto-updated via contribution script.
 ### Entry 2025-06-24 00:59:39 (#16)
 - **Activity:** Reviewed Docker and container orchestration concepts
 - **Reflection:** Noting this for my ML Summer School prep.
+
+### Entry 2025-06-25 00:59:39 (#17)
+- **Activity:** Explored Supabase real-time subscriptions
+- **Reflection:** This pattern appears frequently in production systems.
