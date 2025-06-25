@@ -76,3 +76,7 @@ Auto-updated via contribution script.
 ### Entry 2025-06-25 00:59:39 (#18)
 - **Activity:** Explored Supabase real-time subscriptions
 - **Reflection:** Identified a gap in my understanding — will revisit.
+
+### Entry 2025-06-25 00:59:39 (#19)
+- **Activity:** Practiced SQL window functions and query optimization
+- **Reflection:** This pattern appears frequently in production systems.
