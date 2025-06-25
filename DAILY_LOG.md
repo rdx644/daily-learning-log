@@ -72,3 +72,7 @@ Auto-updated via contribution script.
 ### Entry 2025-06-25 00:59:39 (#17)
 - **Activity:** Explored Supabase real-time subscriptions
 - **Reflection:** This pattern appears frequently in production systems.
+
+### Entry 2025-06-25 00:59:39 (#18)
+- **Activity:** Explored Supabase real-time subscriptions
+- **Reflection:** Identified a gap in my understanding — will revisit.
