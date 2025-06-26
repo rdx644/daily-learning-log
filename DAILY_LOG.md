@@ -84,3 +84,7 @@ Auto-updated via contribution script.
 ### Entry 2025-06-26 00:59:39 (#20)
 - **Activity:** Studied Zero Trust Network Architecture patterns
 - **Reflection:** Noting this for my ML Summer School prep.
+
+### Entry 2025-06-26 00:59:39 (#21)
+- **Activity:** Studied Transformer architecture attention mechanisms
+- **Reflection:** Noting this for my ML Summer School prep.
