@@ -80,3 +80,7 @@ Auto-updated via contribution script.
 ### Entry 2025-06-25 00:59:39 (#19)
 - **Activity:** Practiced SQL window functions and query optimization
 - **Reflection:** This pattern appears frequently in production systems.
+
+### Entry 2025-06-26 00:59:39 (#20)
+- **Activity:** Studied Zero Trust Network Architecture patterns
+- **Reflection:** Noting this for my ML Summer School prep.
