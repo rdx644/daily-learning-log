@@ -108,3 +108,7 @@ Auto-updated via contribution script.
 ### Entry 2025-06-28 00:59:39 (#26)
 - **Activity:** Practiced SQL window functions and query optimization
 - **Reflection:** Key takeaway: simplicity beats complexity in production.
+
+### Entry 2025-06-28 00:59:39 (#27)
+- **Activity:** Explored Kubernetes pod scheduling strategies
+- **Reflection:** Found an interesting paper to read next.
