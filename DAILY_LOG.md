@@ -104,3 +104,7 @@ Auto-updated via contribution script.
 ### Entry 2025-06-27 00:59:39 (#25)
 - **Activity:** Explored Redis caching strategies for web apps
 - **Reflection:** Found an interesting paper to read next.
+
+### Entry 2025-06-28 00:59:39 (#26)
+- **Activity:** Practiced SQL window functions and query optimization
+- **Reflection:** Key takeaway: simplicity beats complexity in production.
