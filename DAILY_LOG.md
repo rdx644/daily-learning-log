@@ -116,3 +116,7 @@ Auto-updated via contribution script.
 ### Entry 2025-06-28 00:59:39 (#28)
 - **Activity:** Reviewed PostgreSQL indexing and performance tuning
 - **Reflection:** Need to explore this further with real datasets.
+
+### Entry 2025-06-29 00:59:39 (#29)
+- **Activity:** Practiced heap and priority queue implementations
+- **Reflection:** Compared multiple approaches — documented trade-offs.
