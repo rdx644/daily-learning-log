@@ -128,3 +128,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-01 00:59:39 (#31)
 - **Activity:** Revisited AWS IAM roles and policy best practices
 - **Reflection:** Key takeaway: simplicity beats complexity in production.
+
+### Entry 2025-07-01 00:59:39 (#32)
+- **Activity:** Explored Redis caching strategies for web apps
+- **Reflection:** Identified a gap in my understanding — will revisit.
