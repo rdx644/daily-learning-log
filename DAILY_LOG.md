@@ -124,3 +124,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-01 00:59:39 (#30)
 - **Activity:** Practiced LeetCode — arrays and dynamic programming
 - **Reflection:** Need to explore this further with real datasets.
+
+### Entry 2025-07-01 00:59:39 (#31)
+- **Activity:** Revisited AWS IAM roles and policy best practices
+- **Reflection:** Key takeaway: simplicity beats complexity in production.
