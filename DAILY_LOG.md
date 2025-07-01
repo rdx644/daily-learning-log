@@ -120,3 +120,7 @@ Auto-updated via contribution script.
 ### Entry 2025-06-29 00:59:39 (#29)
 - **Activity:** Practiced heap and priority queue implementations
 - **Reflection:** Compared multiple approaches — documented trade-offs.
+
+### Entry 2025-07-01 00:59:39 (#30)
+- **Activity:** Practiced LeetCode — arrays and dynamic programming
+- **Reflection:** Need to explore this further with real datasets.
