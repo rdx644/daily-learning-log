@@ -156,3 +156,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-03 00:59:39 (#38)
 - **Activity:** Practiced graph traversal algorithms (BFS/DFS)
 - **Reflection:** Traced implementation path from theory to code.
+
+### Entry 2025-07-03 00:59:39 (#39)
+- **Activity:** Reviewed Firebase authentication flow patterns
+- **Reflection:** Practice problem solved — will revisit edge cases.
