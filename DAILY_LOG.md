@@ -164,3 +164,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-04 00:59:39 (#40)
 - **Activity:** Studied Transformer architecture attention mechanisms
 - **Reflection:** This pattern appears frequently in production systems.
+
+### Entry 2025-07-04 00:59:39 (#41)
+- **Activity:** Studied Transformer architecture attention mechanisms
+- **Reflection:** Practice problem solved — will revisit edge cases.
