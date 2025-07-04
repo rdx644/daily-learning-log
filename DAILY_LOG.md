@@ -160,3 +160,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-03 00:59:39 (#39)
 - **Activity:** Reviewed Firebase authentication flow patterns
 - **Reflection:** Practice problem solved — will revisit edge cases.
+
+### Entry 2025-07-04 00:59:39 (#40)
+- **Activity:** Studied Transformer architecture attention mechanisms
+- **Reflection:** This pattern appears frequently in production systems.
