@@ -188,3 +188,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-05 00:59:39 (#46)
 - **Activity:** Practiced dynamic programming — knapsack problem
 - **Reflection:** Linked concept to real-world threat detection.
+
+### Entry 2025-07-06 00:59:39 (#47)
+- **Activity:** Explored Apache Kafka event streaming concepts
+- **Reflection:** Compared multiple approaches — documented trade-offs.
