@@ -192,3 +192,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-06 00:59:39 (#47)
 - **Activity:** Explored Apache Kafka event streaming concepts
 - **Reflection:** Compared multiple approaches — documented trade-offs.
+
+### Entry 2025-07-07 00:59:39 (#48)
+- **Activity:** Explored serverless deployment with AWS Lambda
+- **Reflection:** Linked concept to real-world threat detection.
