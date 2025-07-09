@@ -228,3 +228,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-09 00:59:39 (#56)
 - **Activity:** Implemented REST API endpoint validation
 - **Reflection:** Linked concept to real-world threat detection.
+
+### Entry 2025-07-09 00:59:39 (#57)
+- **Activity:** Explored serverless deployment with AWS Lambda
+- **Reflection:** Practice problem solved — will revisit edge cases.
