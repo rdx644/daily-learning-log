@@ -232,3 +232,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-09 00:59:39 (#57)
 - **Activity:** Explored serverless deployment with AWS Lambda
 - **Reflection:** Practice problem solved — will revisit edge cases.
+
+### Entry 2025-07-09 00:59:39 (#58)
+- **Activity:** Practiced SQL window functions and query optimization
+- **Reflection:** Need to explore this further with real datasets.
