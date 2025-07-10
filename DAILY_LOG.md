@@ -252,3 +252,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-10 00:59:39 (#62)
 - **Activity:** Practiced linked list reversal algorithms
 - **Reflection:** Traced implementation path from theory to code.
+
+### Entry 2025-07-10 00:59:39 (#63)
+- **Activity:** Read about K-Means clustering for user behaviour analytics
+- **Reflection:** Noting this for my ML Summer School prep.
