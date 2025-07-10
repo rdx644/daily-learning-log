@@ -240,3 +240,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-10 00:59:39 (#59)
 - **Activity:** Practiced NumPy broadcasting and vectorized ops
 - **Reflection:** Compared multiple approaches — documented trade-offs.
+
+### Entry 2025-07-10 00:59:39 (#60)
+- **Activity:** Reviewed Docker and container orchestration concepts
+- **Reflection:** Noting this for my ML Summer School prep.
