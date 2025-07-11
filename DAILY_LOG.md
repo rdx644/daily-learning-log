@@ -272,3 +272,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-11 00:59:39 (#67)
 - **Activity:** Studied Logistic Regression hyperparameter tuning
 - **Reflection:** Found an interesting paper to read next.
+
+### Entry 2025-07-11 00:59:39 (#68)
+- **Activity:** Studied Transformer architecture attention mechanisms
+- **Reflection:** Built a small prototype to test the concept.
