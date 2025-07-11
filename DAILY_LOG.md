@@ -284,3 +284,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-11 00:59:39 (#70)
 - **Activity:** Explored Redis caching strategies for web apps
 - **Reflection:** This will be useful for future cloud security work.
+
+### Entry 2025-07-11 00:59:39 (#71)
+- **Activity:** Revisited AWS IAM roles and policy best practices
+- **Reflection:** Made progress on understanding core abstractions.
