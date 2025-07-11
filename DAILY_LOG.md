@@ -256,3 +256,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-10 00:59:39 (#63)
 - **Activity:** Read about K-Means clustering for user behaviour analytics
 - **Reflection:** Noting this for my ML Summer School prep.
+
+### Entry 2025-07-11 00:59:39 (#64)
+- **Activity:** Studied reinforcement learning reward functions
+- **Reflection:** Made progress on understanding core abstractions.
