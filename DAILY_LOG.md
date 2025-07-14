@@ -300,3 +300,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-14 00:59:39 (#74)
 - **Activity:** Studied GAN architecture for image generation
 - **Reflection:** Identified a gap in my understanding — will revisit.
+
+### Entry 2025-07-14 00:59:39 (#75)
+- **Activity:** Explored serverless deployment with AWS Lambda
+- **Reflection:** Found an interesting paper to read next.
