@@ -296,3 +296,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-13 00:59:39 (#73)
 - **Activity:** Studied attention mechanism in NLP models
 - **Reflection:** Compared multiple approaches — documented trade-offs.
+
+### Entry 2025-07-14 00:59:39 (#74)
+- **Activity:** Studied GAN architecture for image generation
+- **Reflection:** Identified a gap in my understanding — will revisit.
