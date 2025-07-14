@@ -304,3 +304,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-14 00:59:39 (#75)
 - **Activity:** Explored serverless deployment with AWS Lambda
 - **Reflection:** Found an interesting paper to read next.
+
+### Entry 2025-07-14 00:59:39 (#76)
+- **Activity:** Explored CI/CD pipeline setup with GitHub Actions
+- **Reflection:** Linked concept to real-world threat detection.
