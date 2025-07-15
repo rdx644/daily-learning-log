@@ -320,3 +320,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-15 00:59:39 (#79)
 - **Activity:** Practiced LeetCode — arrays and dynamic programming
 - **Reflection:** Need to explore this further with real datasets.
+
+### Entry 2025-07-15 00:59:39 (#80)
+- **Activity:** Studied Zero Trust Network Architecture patterns
+- **Reflection:** Identified a gap in my understanding — will revisit.
