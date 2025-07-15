@@ -328,3 +328,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-15 00:59:39 (#81)
 - **Activity:** Practiced SQL window functions and query optimization
 - **Reflection:** Key takeaway: simplicity beats complexity in production.
+
+### Entry 2025-07-15 00:59:39 (#82)
+- **Activity:** Explored WebSocket real-time communication patterns
+- **Reflection:** Compared multiple approaches — documented trade-offs.
