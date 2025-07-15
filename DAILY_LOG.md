@@ -324,3 +324,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-15 00:59:39 (#80)
 - **Activity:** Studied Zero Trust Network Architecture patterns
 - **Reflection:** Identified a gap in my understanding — will revisit.
+
+### Entry 2025-07-15 00:59:39 (#81)
+- **Activity:** Practiced SQL window functions and query optimization
+- **Reflection:** Key takeaway: simplicity beats complexity in production.
