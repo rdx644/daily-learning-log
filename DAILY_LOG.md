@@ -332,3 +332,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-15 00:59:39 (#82)
 - **Activity:** Explored WebSocket real-time communication patterns
 - **Reflection:** Compared multiple approaches — documented trade-offs.
+
+### Entry 2025-07-16 00:59:39 (#83)
+- **Activity:** Reviewed Docker and container orchestration concepts
+- **Reflection:** Linked concept to real-world threat detection.
