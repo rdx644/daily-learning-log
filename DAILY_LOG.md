@@ -340,3 +340,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-16 00:59:39 (#84)
 - **Activity:** Practiced dynamic programming — knapsack problem
 - **Reflection:** Built a small prototype to test the concept.
+
+### Entry 2025-07-16 00:59:39 (#85)
+- **Activity:** Reviewed network packet analysis with Wireshark
+- **Reflection:** Identified a gap in my understanding — will revisit.
