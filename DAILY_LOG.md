@@ -336,3 +336,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-16 00:59:39 (#83)
 - **Activity:** Reviewed Docker and container orchestration concepts
 - **Reflection:** Linked concept to real-world threat detection.
+
+### Entry 2025-07-16 00:59:39 (#84)
+- **Activity:** Practiced dynamic programming — knapsack problem
+- **Reflection:** Built a small prototype to test the concept.
