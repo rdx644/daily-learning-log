@@ -344,3 +344,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-16 00:59:39 (#85)
 - **Activity:** Reviewed network packet analysis with Wireshark
 - **Reflection:** Identified a gap in my understanding — will revisit.
+
+### Entry 2025-07-17 00:59:39 (#86)
+- **Activity:** Studied OAuth 2.0 and JWT token flows
+- **Reflection:** Traced implementation path from theory to code.
