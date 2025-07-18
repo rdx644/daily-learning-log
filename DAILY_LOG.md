@@ -360,3 +360,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-18 00:59:39 (#89)
 - **Activity:** Studied BERT fine-tuning for text classification
 - **Reflection:** Found an interesting paper to read next.
+
+### Entry 2025-07-18 00:59:39 (#90)
+- **Activity:** Explored anomaly detection using Isolation Forest
+- **Reflection:** Found an interesting paper to read next.
