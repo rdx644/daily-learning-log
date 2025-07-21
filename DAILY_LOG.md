@@ -384,3 +384,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-21 00:59:39 (#95)
 - **Activity:** Studied convolutional neural network architectures
 - **Reflection:** This will be useful for future cloud security work.
+
+### Entry 2025-07-21 00:59:39 (#96)
+- **Activity:** Explored serverless deployment with AWS Lambda
+- **Reflection:** Practice problem solved — will revisit edge cases.
