@@ -376,3 +376,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-20 00:59:39 (#93)
 - **Activity:** Explored anomaly detection using Isolation Forest
 - **Reflection:** Key takeaway: simplicity beats complexity in production.
+
+### Entry 2025-07-21 00:59:39 (#94)
+- **Activity:** Studied Logistic Regression hyperparameter tuning
+- **Reflection:** Compared multiple approaches — documented trade-offs.
