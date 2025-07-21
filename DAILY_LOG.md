@@ -380,3 +380,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-21 00:59:39 (#94)
 - **Activity:** Studied Logistic Regression hyperparameter tuning
 - **Reflection:** Compared multiple approaches — documented trade-offs.
+
+### Entry 2025-07-21 00:59:39 (#95)
+- **Activity:** Studied convolutional neural network architectures
+- **Reflection:** This will be useful for future cloud security work.
