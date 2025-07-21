@@ -392,3 +392,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-21 00:59:39 (#97)
 - **Activity:** Practiced sorting algorithm analysis and comparison
 - **Reflection:** Connected this to my Cyber Shield AI project.
+
+### Entry 2025-07-21 00:59:39 (#98)
+- **Activity:** Studied Logistic Regression hyperparameter tuning
+- **Reflection:** Good reference material found — bookmarked.
