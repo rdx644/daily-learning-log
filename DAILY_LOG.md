@@ -388,3 +388,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-21 00:59:39 (#96)
 - **Activity:** Explored serverless deployment with AWS Lambda
 - **Reflection:** Practice problem solved — will revisit edge cases.
+
+### Entry 2025-07-21 00:59:39 (#97)
+- **Activity:** Practiced sorting algorithm analysis and comparison
+- **Reflection:** Connected this to my Cyber Shield AI project.
