@@ -412,3 +412,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-22 00:59:39 (#102)
 - **Activity:** Practiced graph traversal algorithms (BFS/DFS)
 - **Reflection:** Need to explore this further with real datasets.
+
+### Entry 2025-07-22 00:59:39 (#103)
+- **Activity:** Practiced heap and priority queue implementations
+- **Reflection:** This will be useful for future cloud security work.
