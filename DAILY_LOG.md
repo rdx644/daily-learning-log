@@ -408,3 +408,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-22 00:59:39 (#101)
 - **Activity:** Practiced LeetCode — arrays and dynamic programming
 - **Reflection:** Good reference material found — bookmarked.
+
+### Entry 2025-07-22 00:59:39 (#102)
+- **Activity:** Practiced graph traversal algorithms (BFS/DFS)
+- **Reflection:** Need to explore this further with real datasets.
