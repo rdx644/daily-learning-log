@@ -396,3 +396,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-21 00:59:39 (#98)
 - **Activity:** Studied Logistic Regression hyperparameter tuning
 - **Reflection:** Good reference material found — bookmarked.
+
+### Entry 2025-07-22 00:59:39 (#99)
+- **Activity:** Studied attention mechanism in NLP models
+- **Reflection:** Good reference material found — bookmarked.
