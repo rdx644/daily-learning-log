@@ -416,3 +416,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-22 00:59:39 (#103)
 - **Activity:** Practiced heap and priority queue implementations
 - **Reflection:** This will be useful for future cloud security work.
+
+### Entry 2025-07-23 00:59:39 (#104)
+- **Activity:** Reviewed network packet analysis with Wireshark
+- **Reflection:** Linked concept to real-world threat detection.
