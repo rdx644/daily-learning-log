@@ -420,3 +420,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-23 00:59:39 (#104)
 - **Activity:** Reviewed network packet analysis with Wireshark
 - **Reflection:** Linked concept to real-world threat detection.
+
+### Entry 2025-07-23 00:59:39 (#105)
+- **Activity:** Practiced LeetCode — arrays and dynamic programming
+- **Reflection:** Built a small prototype to test the concept.
