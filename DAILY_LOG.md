@@ -460,3 +460,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-24 00:59:39 (#114)
 - **Activity:** Practiced sorting algorithm analysis and comparison
 - **Reflection:** Traced implementation path from theory to code.
+
+### Entry 2025-07-24 00:59:39 (#115)
+- **Activity:** Studied Transformer architecture attention mechanisms
+- **Reflection:** Good reference material found — bookmarked.
