@@ -428,3 +428,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-23 00:59:39 (#106)
 - **Activity:** Reviewed Docker and container orchestration concepts
 - **Reflection:** Need to explore this further with real datasets.
+
+### Entry 2025-07-24 00:59:39 (#107)
+- **Activity:** Explored serverless deployment with AWS Lambda
+- **Reflection:** Identified a gap in my understanding — will revisit.
