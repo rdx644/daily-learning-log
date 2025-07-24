@@ -432,3 +432,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-24 00:59:39 (#107)
 - **Activity:** Explored serverless deployment with AWS Lambda
 - **Reflection:** Identified a gap in my understanding — will revisit.
+
+### Entry 2025-07-24 00:59:39 (#108)
+- **Activity:** Studied Logistic Regression hyperparameter tuning
+- **Reflection:** Identified a gap in my understanding — will revisit.
