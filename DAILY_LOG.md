@@ -488,3 +488,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-28 00:59:39 (#121)
 - **Activity:** Explored WebSocket real-time communication patterns
 - **Reflection:** Identified a gap in my understanding — will revisit.
+
+### Entry 2025-07-28 00:59:39 (#122)
+- **Activity:** Revisited AWS IAM roles and policy best practices
+- **Reflection:** This will be useful for future cloud security work.
