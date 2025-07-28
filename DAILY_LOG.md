@@ -496,3 +496,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-28 00:59:39 (#123)
 - **Activity:** Practiced TF-IDF vectorization on text datasets
 - **Reflection:** This pattern appears frequently in production systems.
+
+### Entry 2025-07-28 00:59:39 (#124)
+- **Activity:** Practiced graph traversal algorithms (BFS/DFS)
+- **Reflection:** Compared multiple approaches — documented trade-offs.
