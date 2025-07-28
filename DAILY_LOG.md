@@ -500,3 +500,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-28 00:59:39 (#124)
 - **Activity:** Practiced graph traversal algorithms (BFS/DFS)
 - **Reflection:** Compared multiple approaches — documented trade-offs.
+
+### Entry 2025-07-28 00:59:39 (#125)
+- **Activity:** Studied Logistic Regression hyperparameter tuning
+- **Reflection:** Linked concept to real-world threat detection.
