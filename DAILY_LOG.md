@@ -504,3 +504,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-28 00:59:39 (#125)
 - **Activity:** Studied Logistic Regression hyperparameter tuning
 - **Reflection:** Linked concept to real-world threat detection.
+
+### Entry 2025-07-29 00:59:39 (#126)
+- **Activity:** Explored CI/CD pipeline setup with GitHub Actions
+- **Reflection:** Identified a gap in my understanding — will revisit.
