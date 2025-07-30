@@ -524,3 +524,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-30 00:59:39 (#130)
 - **Activity:** Studied reinforcement learning reward functions
 - **Reflection:** This pattern appears frequently in production systems.
+
+### Entry 2025-07-30 00:59:39 (#131)
+- **Activity:** Read about K-Means clustering for user behaviour analytics
+- **Reflection:** Compared multiple approaches — documented trade-offs.
