@@ -512,3 +512,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-29 00:59:39 (#127)
 - **Activity:** Practiced graph traversal algorithms (BFS/DFS)
 - **Reflection:** Good reference material found — bookmarked.
+
+### Entry 2025-07-30 00:59:39 (#128)
+- **Activity:** Explored serverless deployment with AWS Lambda
+- **Reflection:** Identified a gap in my understanding — will revisit.
