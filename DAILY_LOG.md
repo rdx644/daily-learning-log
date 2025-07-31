@@ -528,3 +528,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-30 00:59:39 (#131)
 - **Activity:** Read about K-Means clustering for user behaviour analytics
 - **Reflection:** Compared multiple approaches — documented trade-offs.
+
+### Entry 2025-07-31 00:59:39 (#132)
+- **Activity:** Explored anomaly detection using Isolation Forest
+- **Reflection:** Made progress on understanding core abstractions.
