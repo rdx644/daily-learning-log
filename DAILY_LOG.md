@@ -532,3 +532,7 @@ Auto-updated via contribution script.
 ### Entry 2025-07-31 00:59:39 (#132)
 - **Activity:** Explored anomaly detection using Isolation Forest
 - **Reflection:** Made progress on understanding core abstractions.
+
+### Entry 2025-07-31 00:59:39 (#133)
+- **Activity:** Studied reinforcement learning reward functions
+- **Reflection:** Practice problem solved — will revisit edge cases.
