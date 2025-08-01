@@ -560,3 +560,7 @@ Auto-updated via contribution script.
 ### Entry 2025-08-01 00:59:39 (#139)
 - **Activity:** Studied Zero Trust Network Architecture patterns
 - **Reflection:** Identified a gap in my understanding — will revisit.
+
+### Entry 2025-08-01 00:59:39 (#140)
+- **Activity:** Practiced graph traversal algorithms (BFS/DFS)
+- **Reflection:** Noting this for my ML Summer School prep.
