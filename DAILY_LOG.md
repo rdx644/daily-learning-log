@@ -544,3 +544,7 @@ Auto-updated via contribution script.
 ### Entry 2025-08-01 00:59:39 (#135)
 - **Activity:** Explored CI/CD pipeline setup with GitHub Actions
 - **Reflection:** Found an interesting paper to read next.
+
+### Entry 2025-08-01 00:59:39 (#136)
+- **Activity:** Explored Supabase real-time subscriptions
+- **Reflection:** Good reference material found — bookmarked.
