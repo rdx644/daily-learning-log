@@ -564,3 +564,7 @@ Auto-updated via contribution script.
 ### Entry 2025-08-01 00:59:39 (#140)
 - **Activity:** Practiced graph traversal algorithms (BFS/DFS)
 - **Reflection:** Noting this for my ML Summer School prep.
+
+### Entry 2025-08-02 00:59:39 (#141)
+- **Activity:** Revisited AWS IAM roles and policy best practices
+- **Reflection:** Noting this for my ML Summer School prep.
