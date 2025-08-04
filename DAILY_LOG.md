@@ -584,3 +584,7 @@ Auto-updated via contribution script.
 ### Entry 2025-08-03 00:59:39 (#145)
 - **Activity:** Studied convolutional neural network architectures
 - **Reflection:** Connected this to my Cyber Shield AI project.
+
+### Entry 2025-08-04 00:59:39 (#146)
+- **Activity:** Studied BERT fine-tuning for text classification
+- **Reflection:** Noting this for my ML Summer School prep.
