@@ -588,3 +588,7 @@ Auto-updated via contribution script.
 ### Entry 2025-08-04 00:59:39 (#146)
 - **Activity:** Studied BERT fine-tuning for text classification
 - **Reflection:** Noting this for my ML Summer School prep.
+
+### Entry 2025-08-04 00:59:39 (#147)
+- **Activity:** Reviewed Terraform infrastructure-as-code modules
+- **Reflection:** This will be useful for future cloud security work.
