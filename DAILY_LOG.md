@@ -596,3 +596,7 @@ Auto-updated via contribution script.
 ### Entry 2025-08-04 00:59:39 (#148)
 - **Activity:** Explored CI/CD pipeline setup with GitHub Actions
 - **Reflection:** Identified a gap in my understanding — will revisit.
+
+### Entry 2025-08-06 00:59:39 (#149)
+- **Activity:** Studied Transformer architecture attention mechanisms
+- **Reflection:** Found an interesting paper to read next.
