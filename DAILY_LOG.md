@@ -600,3 +600,7 @@ Auto-updated via contribution script.
 ### Entry 2025-08-06 00:59:39 (#149)
 - **Activity:** Studied Transformer architecture attention mechanisms
 - **Reflection:** Found an interesting paper to read next.
+
+### Entry 2025-08-06 00:59:39 (#150)
+- **Activity:** Revisited AWS IAM roles and policy best practices
+- **Reflection:** This pattern appears frequently in production systems.
