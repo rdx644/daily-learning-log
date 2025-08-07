@@ -604,3 +604,7 @@ Auto-updated via contribution script.
 ### Entry 2025-08-06 00:59:39 (#150)
 - **Activity:** Revisited AWS IAM roles and policy best practices
 - **Reflection:** This pattern appears frequently in production systems.
+
+### Entry 2025-08-07 00:59:39 (#151)
+- **Activity:** Studied BERT fine-tuning for text classification
+- **Reflection:** Made progress on understanding core abstractions.
