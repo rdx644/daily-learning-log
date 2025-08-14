@@ -672,3 +672,7 @@ Auto-updated via contribution script.
 ### Entry 2025-08-13 00:59:39 (#167)
 - **Activity:** Practiced binary search tree operations
 - **Reflection:** Found an interesting paper to read next.
+
+### Entry 2025-08-14 00:59:39 (#168)
+- **Activity:** Studied convolutional neural network architectures
+- **Reflection:** Linked concept to real-world threat detection.
