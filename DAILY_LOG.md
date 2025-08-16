@@ -696,3 +696,7 @@ Auto-updated via contribution script.
 ### Entry 2025-08-15 00:59:39 (#173)
 - **Activity:** Studied reinforcement learning reward functions
 - **Reflection:** Key takeaway: simplicity beats complexity in production.
+
+### Entry 2025-08-16 00:59:39 (#174)
+- **Activity:** Studied Transformer architecture attention mechanisms
+- **Reflection:** Linked concept to real-world threat detection.
