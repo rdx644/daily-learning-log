@@ -700,3 +700,7 @@ Auto-updated via contribution script.
 ### Entry 2025-08-16 00:59:39 (#174)
 - **Activity:** Studied Transformer architecture attention mechanisms
 - **Reflection:** Linked concept to real-world threat detection.
+
+### Entry 2025-08-17 00:59:39 (#175)
+- **Activity:** Revisited AWS IAM roles and policy best practices
+- **Reflection:** This pattern appears frequently in production systems.
