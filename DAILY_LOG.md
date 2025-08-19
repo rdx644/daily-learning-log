@@ -720,3 +720,7 @@ Auto-updated via contribution script.
 ### Entry 2025-08-19 00:59:39 (#179)
 - **Activity:** Reviewed Terraform infrastructure-as-code modules
 - **Reflection:** Found an interesting paper to read next.
+
+### Entry 2025-08-19 00:59:39 (#180)
+- **Activity:** Studied Transformer architecture attention mechanisms
+- **Reflection:** Practice problem solved — will revisit edge cases.
