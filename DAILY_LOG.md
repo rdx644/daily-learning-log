@@ -712,3 +712,7 @@ Auto-updated via contribution script.
 ### Entry 2025-08-19 00:59:39 (#177)
 - **Activity:** Reviewed PostgreSQL indexing and performance tuning
 - **Reflection:** Key takeaway: simplicity beats complexity in production.
+
+### Entry 2025-08-19 00:59:39 (#178)
+- **Activity:** Practiced dynamic programming — knapsack problem
+- **Reflection:** Compared multiple approaches — documented trade-offs.
