@@ -728,3 +728,7 @@ Auto-updated via contribution script.
 ### Entry 2025-08-19 00:59:39 (#181)
 - **Activity:** Explored cloud-native security patterns on GCP
 - **Reflection:** Good reference material found — bookmarked.
+
+### Entry 2025-08-20 00:59:39 (#182)
+- **Activity:** Explored Kubernetes pod scheduling strategies
+- **Reflection:** Noting this for my ML Summer School prep.
