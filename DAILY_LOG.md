@@ -732,3 +732,7 @@ Auto-updated via contribution script.
 ### Entry 2025-08-20 00:59:39 (#182)
 - **Activity:** Explored Kubernetes pod scheduling strategies
 - **Reflection:** Noting this for my ML Summer School prep.
+
+### Entry 2025-08-20 00:59:39 (#183)
+- **Activity:** Reviewed Docker and container orchestration concepts
+- **Reflection:** Identified a gap in my understanding — will revisit.
