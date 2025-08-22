@@ -744,3 +744,7 @@ Auto-updated via contribution script.
 ### Entry 2025-08-21 00:59:39 (#185)
 - **Activity:** Studied BERT fine-tuning for text classification
 - **Reflection:** This will be useful for future cloud security work.
+
+### Entry 2025-08-22 00:59:39 (#186)
+- **Activity:** Practiced NumPy broadcasting and vectorized ops
+- **Reflection:** Need to explore this further with real datasets.
