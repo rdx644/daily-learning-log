@@ -764,3 +764,7 @@ Auto-updated via contribution script.
 ### Entry 2025-08-22 00:59:39 (#190)
 - **Activity:** Studied reinforcement learning reward functions
 - **Reflection:** Traced implementation path from theory to code.
+
+### Entry 2025-08-23 00:59:39 (#191)
+- **Activity:** Practiced dynamic programming — knapsack problem
+- **Reflection:** Need to explore this further with real datasets.
