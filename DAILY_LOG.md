@@ -776,3 +776,7 @@ Auto-updated via contribution script.
 ### Entry 2025-08-23 00:59:39 (#193)
 - **Activity:** Practiced heap and priority queue implementations
 - **Reflection:** Compared multiple approaches — documented trade-offs.
+
+### Entry 2025-08-24 00:59:39 (#194)
+- **Activity:** Explored Supabase real-time subscriptions
+- **Reflection:** This will be useful for future cloud security work.
