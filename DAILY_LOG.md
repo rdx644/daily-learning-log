@@ -808,3 +808,7 @@ Auto-updated via contribution script.
 ### Entry 2025-08-26 00:59:39 (#201)
 - **Activity:** Reviewed Firebase authentication flow patterns
 - **Reflection:** Good reference material found — bookmarked.
+
+### Entry 2025-08-26 00:59:39 (#202)
+- **Activity:** Revisited AWS IAM roles and policy best practices
+- **Reflection:** Built a small prototype to test the concept.
