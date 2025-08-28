@@ -828,3 +828,7 @@ Auto-updated via contribution script.
 ### Entry 2025-08-28 00:59:39 (#206)
 - **Activity:** Reviewed PostgreSQL indexing and performance tuning
 - **Reflection:** Built a small prototype to test the concept.
+
+### Entry 2025-08-28 00:59:39 (#207)
+- **Activity:** Practiced LeetCode — arrays and dynamic programming
+- **Reflection:** Compared multiple approaches — documented trade-offs.
