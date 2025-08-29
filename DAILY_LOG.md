@@ -832,3 +832,7 @@ Auto-updated via contribution script.
 ### Entry 2025-08-28 00:59:39 (#207)
 - **Activity:** Practiced LeetCode — arrays and dynamic programming
 - **Reflection:** Compared multiple approaches — documented trade-offs.
+
+### Entry 2025-08-29 00:59:39 (#208)
+- **Activity:** Explored anomaly detection using Isolation Forest
+- **Reflection:** Noting this for my ML Summer School prep.
