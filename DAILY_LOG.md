@@ -848,3 +848,7 @@ Auto-updated via contribution script.
 ### Entry 2025-09-01 00:59:39 (#211)
 - **Activity:** Practiced TF-IDF vectorization on text datasets
 - **Reflection:** Need to explore this further with real datasets.
+
+### Entry 2025-09-02 00:59:39 (#212)
+- **Activity:** Explored Redis caching strategies for web apps
+- **Reflection:** Linked concept to real-world threat detection.
