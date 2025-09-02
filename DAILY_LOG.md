@@ -856,3 +856,7 @@ Auto-updated via contribution script.
 ### Entry 2025-09-02 00:59:39 (#213)
 - **Activity:** Practiced sorting algorithm analysis and comparison
 - **Reflection:** This will be useful for future cloud security work.
+
+### Entry 2025-09-02 00:59:39 (#214)
+- **Activity:** Explored serverless deployment with AWS Lambda
+- **Reflection:** Linked concept to real-world threat detection.
