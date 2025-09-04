@@ -872,3 +872,7 @@ Auto-updated via contribution script.
 ### Entry 2025-09-04 00:59:39 (#217)
 - **Activity:** Practiced heap and priority queue implementations
 - **Reflection:** This will be useful for future cloud security work.
+
+### Entry 2025-09-04 00:59:39 (#218)
+- **Activity:** Explored Apache Kafka event streaming concepts
+- **Reflection:** Practice problem solved — will revisit edge cases.
