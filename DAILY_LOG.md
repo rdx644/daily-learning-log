@@ -868,3 +868,7 @@ Auto-updated via contribution script.
 ### Entry 2025-09-04 00:59:39 (#216)
 - **Activity:** Explored Supabase real-time subscriptions
 - **Reflection:** Made progress on understanding core abstractions.
+
+### Entry 2025-09-04 00:59:39 (#217)
+- **Activity:** Practiced heap and priority queue implementations
+- **Reflection:** This will be useful for future cloud security work.
