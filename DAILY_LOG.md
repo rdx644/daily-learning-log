@@ -888,3 +888,7 @@ Auto-updated via contribution script.
 ### Entry 2025-09-04 00:59:39 (#221)
 - **Activity:** Reviewed Firebase authentication flow patterns
 - **Reflection:** Good reference material found — bookmarked.
+
+### Entry 2025-09-06 00:59:39 (#222)
+- **Activity:** Studied convolutional neural network architectures
+- **Reflection:** Linked concept to real-world threat detection.
