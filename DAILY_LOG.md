@@ -900,3 +900,7 @@ Auto-updated via contribution script.
 ### Entry 2025-09-09 00:59:39 (#224)
 - **Activity:** Reviewed Terraform infrastructure-as-code modules
 - **Reflection:** This will be useful for future cloud security work.
+
+### Entry 2025-09-09 00:59:39 (#225)
+- **Activity:** Revisited AWS IAM roles and policy best practices
+- **Reflection:** Need to explore this further with real datasets.
