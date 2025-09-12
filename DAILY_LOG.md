@@ -956,3 +956,7 @@ Auto-updated via contribution script.
 ### Entry 2025-09-12 00:59:39 (#238)
 - **Activity:** Implemented REST API endpoint validation
 - **Reflection:** Noting this for my ML Summer School prep.
+
+### Entry 2025-09-12 00:59:39 (#239)
+- **Activity:** Reviewed Docker and container orchestration concepts
+- **Reflection:** Built a small prototype to test the concept.
