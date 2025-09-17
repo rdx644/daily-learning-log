@@ -1008,3 +1008,7 @@ Auto-updated via contribution script.
 ### Entry 2025-09-16 00:59:39 (#251)
 - **Activity:** Studied BERT fine-tuning for text classification
 - **Reflection:** Practice problem solved — will revisit edge cases.
+
+### Entry 2025-09-17 00:59:39 (#252)
+- **Activity:** Revisited AWS IAM roles and policy best practices
+- **Reflection:** Need to explore this further with real datasets.
