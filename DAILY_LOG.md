@@ -1012,3 +1012,7 @@ Auto-updated via contribution script.
 ### Entry 2025-09-17 00:59:39 (#252)
 - **Activity:** Revisited AWS IAM roles and policy best practices
 - **Reflection:** Need to explore this further with real datasets.
+
+### Entry 2025-09-17 00:59:39 (#253)
+- **Activity:** Explored serverless deployment with AWS Lambda
+- **Reflection:** Traced implementation path from theory to code.
