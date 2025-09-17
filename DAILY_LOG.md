@@ -1016,3 +1016,7 @@ Auto-updated via contribution script.
 ### Entry 2025-09-17 00:59:39 (#253)
 - **Activity:** Explored serverless deployment with AWS Lambda
 - **Reflection:** Traced implementation path from theory to code.
+
+### Entry 2025-09-17 00:59:39 (#254)
+- **Activity:** Explored Supabase real-time subscriptions
+- **Reflection:** Noting this for my ML Summer School prep.
