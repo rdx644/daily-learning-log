@@ -1048,3 +1048,7 @@ Auto-updated via contribution script.
 ### Entry 2025-09-18 00:59:39 (#261)
 - **Activity:** Practiced binary search tree operations
 - **Reflection:** Made progress on understanding core abstractions.
+
+### Entry 2025-09-18 00:59:39 (#262)
+- **Activity:** Explored Supabase real-time subscriptions
+- **Reflection:** Key takeaway: simplicity beats complexity in production.
