@@ -1044,3 +1044,7 @@ Auto-updated via contribution script.
 ### Entry 2025-09-17 00:59:39 (#260)
 - **Activity:** Reviewed network packet analysis with Wireshark
 - **Reflection:** This will be useful for future cloud security work.
+
+### Entry 2025-09-18 00:59:39 (#261)
+- **Activity:** Practiced binary search tree operations
+- **Reflection:** Made progress on understanding core abstractions.
