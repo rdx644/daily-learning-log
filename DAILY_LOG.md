@@ -1072,3 +1072,7 @@ Auto-updated via contribution script.
 ### Entry 2025-09-20 00:59:39 (#267)
 - **Activity:** Read about Random Forest ensemble methods
 - **Reflection:** Linked concept to real-world threat detection.
+
+### Entry 2025-09-20 00:59:39 (#268)
+- **Activity:** Studied reinforcement learning reward functions
+- **Reflection:** Noting this for my ML Summer School prep.
