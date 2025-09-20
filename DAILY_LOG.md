@@ -1068,3 +1068,7 @@ Auto-updated via contribution script.
 ### Entry 2025-09-19 00:59:39 (#266)
 - **Activity:** Studied BERT fine-tuning for text classification
 - **Reflection:** Compared multiple approaches — documented trade-offs.
+
+### Entry 2025-09-20 00:59:39 (#267)
+- **Activity:** Read about Random Forest ensemble methods
+- **Reflection:** Linked concept to real-world threat detection.
