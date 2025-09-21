@@ -1084,3 +1084,7 @@ Auto-updated via contribution script.
 ### Entry 2025-09-20 00:59:39 (#270)
 - **Activity:** Reviewed network packet analysis with Wireshark
 - **Reflection:** Identified a gap in my understanding — will revisit.
+
+### Entry 2025-09-21 00:59:39 (#271)
+- **Activity:** Practiced graph traversal algorithms (BFS/DFS)
+- **Reflection:** Linked concept to real-world threat detection.
