@@ -1096,3 +1096,7 @@ Auto-updated via contribution script.
 ### Entry 2025-09-23 00:59:39 (#273)
 - **Activity:** Studied Transformer architecture attention mechanisms
 - **Reflection:** Built a small prototype to test the concept.
+
+### Entry 2025-09-23 00:59:39 (#274)
+- **Activity:** Explored Supabase real-time subscriptions
+- **Reflection:** Noting this for my ML Summer School prep.
