@@ -1092,3 +1092,7 @@ Auto-updated via contribution script.
 ### Entry 2025-09-23 00:59:39 (#272)
 - **Activity:** Practiced LeetCode — arrays and dynamic programming
 - **Reflection:** Noting this for my ML Summer School prep.
+
+### Entry 2025-09-23 00:59:39 (#273)
+- **Activity:** Studied Transformer architecture attention mechanisms
+- **Reflection:** Built a small prototype to test the concept.
