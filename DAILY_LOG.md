@@ -1112,3 +1112,7 @@ Auto-updated via contribution script.
 ### Entry 2025-09-25 00:59:39 (#277)
 - **Activity:** Practiced graph traversal algorithms (BFS/DFS)
 - **Reflection:** Linked concept to real-world threat detection.
+
+### Entry 2025-09-25 00:59:39 (#278)
+- **Activity:** Explored anomaly detection using Isolation Forest
+- **Reflection:** Key takeaway: simplicity beats complexity in production.
