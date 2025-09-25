@@ -1108,3 +1108,7 @@ Auto-updated via contribution script.
 ### Entry 2025-09-25 00:59:39 (#276)
 - **Activity:** Implemented REST API endpoint validation
 - **Reflection:** Identified a gap in my understanding — will revisit.
+
+### Entry 2025-09-25 00:59:39 (#277)
+- **Activity:** Practiced graph traversal algorithms (BFS/DFS)
+- **Reflection:** Linked concept to real-world threat detection.
