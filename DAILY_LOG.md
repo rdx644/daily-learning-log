@@ -1124,3 +1124,7 @@ Auto-updated via contribution script.
 ### Entry 2025-09-26 00:59:39 (#280)
 - **Activity:** Reviewed Docker and container orchestration concepts
 - **Reflection:** Identified a gap in my understanding — will revisit.
+
+### Entry 2025-09-26 00:59:39 (#281)
+- **Activity:** Practiced dynamic programming — knapsack problem
+- **Reflection:** Identified a gap in my understanding — will revisit.
