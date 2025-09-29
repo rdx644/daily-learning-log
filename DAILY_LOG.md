@@ -1144,3 +1144,7 @@ Auto-updated via contribution script.
 ### Entry 2025-09-29 00:59:39 (#285)
 - **Activity:** Practiced binary search tree operations
 - **Reflection:** Built a small prototype to test the concept.
+
+### Entry 2025-09-29 00:59:39 (#286)
+- **Activity:** Explored Supabase real-time subscriptions
+- **Reflection:** Good reference material found — bookmarked.
