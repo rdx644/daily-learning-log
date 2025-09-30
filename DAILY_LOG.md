@@ -1164,3 +1164,7 @@ Auto-updated via contribution script.
 ### Entry 2025-09-30 00:59:39 (#290)
 - **Activity:** Explored Supabase real-time subscriptions
 - **Reflection:** Found an interesting paper to read next.
+
+### Entry 2025-09-30 00:59:39 (#291)
+- **Activity:** Studied attention mechanism in NLP models
+- **Reflection:** Noting this for my ML Summer School prep.
