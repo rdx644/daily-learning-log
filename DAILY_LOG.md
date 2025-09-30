@@ -1152,3 +1152,7 @@ Auto-updated via contribution script.
 ### Entry 2025-09-29 00:59:39 (#287)
 - **Activity:** Practiced TF-IDF vectorization on text datasets
 - **Reflection:** Connected this to my Cyber Shield AI project.
+
+### Entry 2025-09-30 00:59:39 (#288)
+- **Activity:** Studied convolutional neural network architectures
+- **Reflection:** Built a small prototype to test the concept.
