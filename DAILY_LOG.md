@@ -1172,3 +1172,7 @@ Auto-updated via contribution script.
 ### Entry 2025-09-30 00:59:39 (#292)
 - **Activity:** Reviewed React state management patterns
 - **Reflection:** Connected this to my Cyber Shield AI project.
+
+### Entry 2025-10-01 00:59:39 (#293)
+- **Activity:** Read about K-Means clustering for user behaviour analytics
+- **Reflection:** Traced implementation path from theory to code.
