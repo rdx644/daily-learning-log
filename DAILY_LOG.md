@@ -1180,3 +1180,7 @@ Auto-updated via contribution script.
 ### Entry 2025-10-01 00:59:39 (#294)
 - **Activity:** Reviewed PostgreSQL indexing and performance tuning
 - **Reflection:** Built a small prototype to test the concept.
+
+### Entry 2025-10-01 00:59:39 (#295)
+- **Activity:** Explored Apache Kafka event streaming concepts
+- **Reflection:** Compared multiple approaches — documented trade-offs.
