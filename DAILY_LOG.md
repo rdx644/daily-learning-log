@@ -1196,3 +1196,7 @@ Auto-updated via contribution script.
 ### Entry 2025-10-01 00:59:39 (#298)
 - **Activity:** Explored Kubernetes pod scheduling strategies
 - **Reflection:** Key takeaway: simplicity beats complexity in production.
+
+### Entry 2025-10-02 00:59:39 (#299)
+- **Activity:** Practiced SQL window functions and query optimization
+- **Reflection:** Made progress on understanding core abstractions.
