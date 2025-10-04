@@ -1204,3 +1204,7 @@ Auto-updated via contribution script.
 ### Entry 2025-10-02 00:59:39 (#300)
 - **Activity:** Reviewed Python async I/O and concurrency patterns
 - **Reflection:** Made progress on understanding core abstractions.
+
+### Entry 2025-10-04 00:59:39 (#301)
+- **Activity:** Revisited AWS IAM roles and policy best practices
+- **Reflection:** Compared multiple approaches — documented trade-offs.
