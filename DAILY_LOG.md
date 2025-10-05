@@ -1216,3 +1216,7 @@ Auto-updated via contribution script.
 ### Entry 2025-10-05 00:59:39 (#303)
 - **Activity:** Studied BERT fine-tuning for text classification
 - **Reflection:** Connected this to my Cyber Shield AI project.
+
+### Entry 2025-10-05 00:59:39 (#304)
+- **Activity:** Studied reinforcement learning reward functions
+- **Reflection:** Built a small prototype to test the concept.
