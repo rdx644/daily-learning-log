@@ -1208,3 +1208,7 @@ Auto-updated via contribution script.
 ### Entry 2025-10-04 00:59:39 (#301)
 - **Activity:** Revisited AWS IAM roles and policy best practices
 - **Reflection:** Compared multiple approaches — documented trade-offs.
+
+### Entry 2025-10-05 00:59:39 (#302)
+- **Activity:** Explored WebSocket real-time communication patterns
+- **Reflection:** Good reference material found — bookmarked.
