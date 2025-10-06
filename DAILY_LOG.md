@@ -1236,3 +1236,7 @@ Auto-updated via contribution script.
 ### Entry 2025-10-06 00:59:39 (#308)
 - **Activity:** Practiced NumPy broadcasting and vectorized ops
 - **Reflection:** Found an interesting paper to read next.
+
+### Entry 2025-10-06 00:59:39 (#309)
+- **Activity:** Explored anomaly detection using Isolation Forest
+- **Reflection:** Practice problem solved — will revisit edge cases.
