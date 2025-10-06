@@ -1224,3 +1224,7 @@ Auto-updated via contribution script.
 ### Entry 2025-10-05 00:59:39 (#305)
 - **Activity:** Reviewed Docker and container orchestration concepts
 - **Reflection:** Compared multiple approaches — documented trade-offs.
+
+### Entry 2025-10-06 00:59:39 (#306)
+- **Activity:** Studied attention mechanism in NLP models
+- **Reflection:** Found an interesting paper to read next.
