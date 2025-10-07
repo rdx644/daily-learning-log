@@ -1244,3 +1244,7 @@ Auto-updated via contribution script.
 ### Entry 2025-10-07 00:59:39 (#310)
 - **Activity:** Reviewed Python async I/O and concurrency patterns
 - **Reflection:** This will be useful for future cloud security work.
+
+### Entry 2025-10-07 00:59:39 (#311)
+- **Activity:** Practiced SQL window functions and query optimization
+- **Reflection:** Built a small prototype to test the concept.
