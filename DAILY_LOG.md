@@ -1248,3 +1248,7 @@ Auto-updated via contribution script.
 ### Entry 2025-10-07 00:59:39 (#311)
 - **Activity:** Practiced SQL window functions and query optimization
 - **Reflection:** Built a small prototype to test the concept.
+
+### Entry 2025-10-07 00:59:39 (#312)
+- **Activity:** Studied Zero Trust Network Architecture patterns
+- **Reflection:** Noting this for my ML Summer School prep.
