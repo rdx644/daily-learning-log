@@ -1268,3 +1268,7 @@ Auto-updated via contribution script.
 ### Entry 2025-10-09 00:59:39 (#316)
 - **Activity:** Explored serverless deployment with AWS Lambda
 - **Reflection:** This will be useful for future cloud security work.
+
+### Entry 2025-10-09 00:59:39 (#317)
+- **Activity:** Studied convolutional neural network architectures
+- **Reflection:** Found an interesting paper to read next.
