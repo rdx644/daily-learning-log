@@ -1284,3 +1284,7 @@ Auto-updated via contribution script.
 ### Entry 2025-10-10 00:59:39 (#320)
 - **Activity:** Studied convolutional neural network architectures
 - **Reflection:** Traced implementation path from theory to code.
+
+### Entry 2025-10-10 00:59:39 (#321)
+- **Activity:** Practiced NumPy broadcasting and vectorized ops
+- **Reflection:** Connected this to my Cyber Shield AI project.
