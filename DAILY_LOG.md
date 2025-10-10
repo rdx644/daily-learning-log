@@ -1276,3 +1276,7 @@ Auto-updated via contribution script.
 ### Entry 2025-10-09 00:59:39 (#318)
 - **Activity:** Reviewed network packet analysis with Wireshark
 - **Reflection:** Connected this to my Cyber Shield AI project.
+
+### Entry 2025-10-10 00:59:39 (#319)
+- **Activity:** Read about K-Means clustering for user behaviour analytics
+- **Reflection:** Connected this to my Cyber Shield AI project.
