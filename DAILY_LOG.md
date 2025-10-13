@@ -1296,3 +1296,7 @@ Auto-updated via contribution script.
 ### Entry 2025-10-13 00:59:39 (#323)
 - **Activity:** Explored Supabase real-time subscriptions
 - **Reflection:** Identified a gap in my understanding — will revisit.
+
+### Entry 2025-10-13 00:59:39 (#324)
+- **Activity:** Studied OAuth 2.0 and JWT token flows
+- **Reflection:** Compared multiple approaches — documented trade-offs.
