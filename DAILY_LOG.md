@@ -1292,3 +1292,7 @@ Auto-updated via contribution script.
 ### Entry 2025-10-10 00:59:39 (#322)
 - **Activity:** Practiced LeetCode — arrays and dynamic programming
 - **Reflection:** Found an interesting paper to read next.
+
+### Entry 2025-10-13 00:59:39 (#323)
+- **Activity:** Explored Supabase real-time subscriptions
+- **Reflection:** Identified a gap in my understanding — will revisit.
