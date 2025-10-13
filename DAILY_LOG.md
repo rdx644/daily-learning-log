@@ -1300,3 +1300,7 @@ Auto-updated via contribution script.
 ### Entry 2025-10-13 00:59:39 (#324)
 - **Activity:** Studied OAuth 2.0 and JWT token flows
 - **Reflection:** Compared multiple approaches — documented trade-offs.
+
+### Entry 2025-10-13 00:59:39 (#325)
+- **Activity:** Studied Logistic Regression hyperparameter tuning
+- **Reflection:** Made progress on understanding core abstractions.
