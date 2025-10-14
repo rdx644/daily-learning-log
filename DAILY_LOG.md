@@ -1304,3 +1304,7 @@ Auto-updated via contribution script.
 ### Entry 2025-10-13 00:59:39 (#325)
 - **Activity:** Studied Logistic Regression hyperparameter tuning
 - **Reflection:** Made progress on understanding core abstractions.
+
+### Entry 2025-10-14 00:59:39 (#326)
+- **Activity:** Practiced binary search tree operations
+- **Reflection:** Good reference material found — bookmarked.
