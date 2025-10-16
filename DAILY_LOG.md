@@ -1348,3 +1348,7 @@ Auto-updated via contribution script.
 ### Entry 2025-10-16 00:59:39 (#336)
 - **Activity:** Reviewed Firebase authentication flow patterns
 - **Reflection:** Built a small prototype to test the concept.
+
+### Entry 2025-10-16 00:59:39 (#337)
+- **Activity:** Studied OAuth 2.0 and JWT token flows
+- **Reflection:** This will be useful for future cloud security work.
