@@ -1364,3 +1364,7 @@ Auto-updated via contribution script.
 ### Entry 2025-10-17 00:59:39 (#340)
 - **Activity:** Read about K-Means clustering for user behaviour analytics
 - **Reflection:** Made progress on understanding core abstractions.
+
+### Entry 2025-10-18 00:59:39 (#341)
+- **Activity:** Explored Kubernetes pod scheduling strategies
+- **Reflection:** Linked concept to real-world threat detection.
