@@ -1388,3 +1388,7 @@ Auto-updated via contribution script.
 ### Entry 2025-10-21 00:59:39 (#346)
 - **Activity:** Read about Random Forest ensemble methods
 - **Reflection:** Compared multiple approaches — documented trade-offs.
+
+### Entry 2025-10-22 00:59:39 (#347)
+- **Activity:** Read about K-Means clustering for user behaviour analytics
+- **Reflection:** Need to explore this further with real datasets.
