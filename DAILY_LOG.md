@@ -1428,3 +1428,7 @@ Auto-updated via contribution script.
 ### Entry 2025-10-26 00:59:39 (#356)
 - **Activity:** Reviewed ML pipeline optimization techniques
 - **Reflection:** Need to explore this further with real datasets.
+
+### Entry 2025-10-27 00:59:39 (#357)
+- **Activity:** Explored anomaly detection using Isolation Forest
+- **Reflection:** Identified a gap in my understanding — will revisit.
