@@ -1452,3 +1452,7 @@ Auto-updated via contribution script.
 ### Entry 2025-10-28 00:59:39 (#362)
 - **Activity:** Read about Random Forest ensemble methods
 - **Reflection:** Compared multiple approaches — documented trade-offs.
+
+### Entry 2025-10-28 00:59:39 (#363)
+- **Activity:** Practiced NumPy broadcasting and vectorized ops
+- **Reflection:** Noting this for my ML Summer School prep.
