@@ -1448,3 +1448,7 @@ Auto-updated via contribution script.
 ### Entry 2025-10-28 00:59:39 (#361)
 - **Activity:** Practiced SQL window functions and query optimization
 - **Reflection:** Noting this for my ML Summer School prep.
+
+### Entry 2025-10-28 00:59:39 (#362)
+- **Activity:** Read about Random Forest ensemble methods
+- **Reflection:** Compared multiple approaches — documented trade-offs.
