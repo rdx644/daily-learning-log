@@ -1456,3 +1456,7 @@ Auto-updated via contribution script.
 ### Entry 2025-10-28 00:59:39 (#363)
 - **Activity:** Practiced NumPy broadcasting and vectorized ops
 - **Reflection:** Noting this for my ML Summer School prep.
+
+### Entry 2025-10-28 00:59:39 (#364)
+- **Activity:** Read about K-Means clustering for user behaviour analytics
+- **Reflection:** Traced implementation path from theory to code.
