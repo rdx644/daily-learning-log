@@ -1468,3 +1468,7 @@ Auto-updated via contribution script.
 ### Entry 2025-10-30 00:59:39 (#366)
 - **Activity:** Practiced binary search tree operations
 - **Reflection:** Good reference material found — bookmarked.
+
+### Entry 2025-10-30 00:59:39 (#367)
+- **Activity:** Reviewed network packet analysis with Wireshark
+- **Reflection:** Good reference material found — bookmarked.
