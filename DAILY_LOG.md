@@ -1480,3 +1480,7 @@ Auto-updated via contribution script.
 ### Entry 2025-10-31 00:59:39 (#369)
 - **Activity:** Reviewed Docker and container orchestration concepts
 - **Reflection:** Linked concept to real-world threat detection.
+
+### Entry 2025-10-31 00:59:39 (#370)
+- **Activity:** Revisited AWS IAM roles and policy best practices
+- **Reflection:** Linked concept to real-world threat detection.
