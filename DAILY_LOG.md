@@ -1484,3 +1484,7 @@ Auto-updated via contribution script.
 ### Entry 2025-10-31 00:59:39 (#370)
 - **Activity:** Revisited AWS IAM roles and policy best practices
 - **Reflection:** Linked concept to real-world threat detection.
+
+### Entry 2025-10-31 00:59:39 (#371)
+- **Activity:** Studied BERT fine-tuning for text classification
+- **Reflection:** Found an interesting paper to read next.
