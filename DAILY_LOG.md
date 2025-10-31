@@ -1496,3 +1496,7 @@ Auto-updated via contribution script.
 ### Entry 2025-10-31 00:59:39 (#373)
 - **Activity:** Studied BERT fine-tuning for text classification
 - **Reflection:** This will be useful for future cloud security work.
+
+### Entry 2025-10-31 00:59:39 (#374)
+- **Activity:** Reviewed Firebase authentication flow patterns
+- **Reflection:** Good reference material found — bookmarked.
