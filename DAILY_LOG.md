@@ -1476,3 +1476,7 @@ Auto-updated via contribution script.
 ### Entry 2025-10-31 00:59:39 (#368)
 - **Activity:** Read about Random Forest ensemble methods
 - **Reflection:** Made progress on understanding core abstractions.
+
+### Entry 2025-10-31 00:59:39 (#369)
+- **Activity:** Reviewed Docker and container orchestration concepts
+- **Reflection:** Linked concept to real-world threat detection.
