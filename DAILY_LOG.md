@@ -1512,3 +1512,7 @@ Auto-updated via contribution script.
 ### Entry 2025-11-02 00:59:39 (#377)
 - **Activity:** Studied attention mechanism in NLP models
 - **Reflection:** This pattern appears frequently in production systems.
+
+### Entry 2025-11-02 00:59:39 (#378)
+- **Activity:** Practiced graph traversal algorithms (BFS/DFS)
+- **Reflection:** Need to explore this further with real datasets.
