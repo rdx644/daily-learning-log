@@ -1520,3 +1520,7 @@ Auto-updated via contribution script.
 ### Entry 2025-11-02 00:59:39 (#379)
 - **Activity:** Reviewed Terraform infrastructure-as-code modules
 - **Reflection:** Found an interesting paper to read next.
+
+### Entry 2025-11-03 00:59:39 (#380)
+- **Activity:** Studied BERT fine-tuning for text classification
+- **Reflection:** Made progress on understanding core abstractions.
