@@ -1528,3 +1528,7 @@ Auto-updated via contribution script.
 ### Entry 2025-11-03 00:59:39 (#381)
 - **Activity:** Reviewed network packet analysis with Wireshark
 - **Reflection:** This pattern appears frequently in production systems.
+
+### Entry 2025-11-03 00:59:39 (#382)
+- **Activity:** Practiced graph traversal algorithms (BFS/DFS)
+- **Reflection:** Compared multiple approaches — documented trade-offs.
