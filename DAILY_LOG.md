@@ -1556,3 +1556,7 @@ Auto-updated via contribution script.
 ### Entry 2025-11-04 00:59:39 (#388)
 - **Activity:** Explored Apache Kafka event streaming concepts
 - **Reflection:** Built a small prototype to test the concept.
+
+### Entry 2025-11-04 00:59:39 (#389)
+- **Activity:** Practiced NumPy broadcasting and vectorized ops
+- **Reflection:** Need to explore this further with real datasets.
