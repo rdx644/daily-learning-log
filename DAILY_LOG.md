@@ -1548,3 +1548,7 @@ Auto-updated via contribution script.
 ### Entry 2025-11-04 00:59:39 (#386)
 - **Activity:** Studied OAuth 2.0 and JWT token flows
 - **Reflection:** This pattern appears frequently in production systems.
+
+### Entry 2025-11-04 00:59:39 (#387)
+- **Activity:** Explored Apache Kafka event streaming concepts
+- **Reflection:** Practice problem solved — will revisit edge cases.
