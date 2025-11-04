@@ -1540,3 +1540,7 @@ Auto-updated via contribution script.
 ### Entry 2025-11-04 00:59:39 (#384)
 - **Activity:** Practiced TF-IDF vectorization on text datasets
 - **Reflection:** Noting this for my ML Summer School prep.
+
+### Entry 2025-11-04 00:59:39 (#385)
+- **Activity:** Explored serverless deployment with AWS Lambda
+- **Reflection:** Identified a gap in my understanding — will revisit.
