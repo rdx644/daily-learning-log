@@ -1536,3 +1536,7 @@ Auto-updated via contribution script.
 ### Entry 2025-11-03 00:59:39 (#383)
 - **Activity:** Reviewed Terraform infrastructure-as-code modules
 - **Reflection:** Noting this for my ML Summer School prep.
+
+### Entry 2025-11-04 00:59:39 (#384)
+- **Activity:** Practiced TF-IDF vectorization on text datasets
+- **Reflection:** Noting this for my ML Summer School prep.
