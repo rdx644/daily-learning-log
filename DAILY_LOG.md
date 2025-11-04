@@ -1544,3 +1544,7 @@ Auto-updated via contribution script.
 ### Entry 2025-11-04 00:59:39 (#385)
 - **Activity:** Explored serverless deployment with AWS Lambda
 - **Reflection:** Identified a gap in my understanding — will revisit.
+
+### Entry 2025-11-04 00:59:39 (#386)
+- **Activity:** Studied OAuth 2.0 and JWT token flows
+- **Reflection:** This pattern appears frequently in production systems.
