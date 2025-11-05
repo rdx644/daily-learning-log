@@ -1564,3 +1564,7 @@ Auto-updated via contribution script.
 ### Entry 2025-11-05 00:59:39 (#390)
 - **Activity:** Revisited AWS IAM roles and policy best practices
 - **Reflection:** Found an interesting paper to read next.
+
+### Entry 2025-11-05 00:59:39 (#391)
+- **Activity:** Explored CI/CD pipeline setup with GitHub Actions
+- **Reflection:** Compared multiple approaches — documented trade-offs.
