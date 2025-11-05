@@ -1560,3 +1560,7 @@ Auto-updated via contribution script.
 ### Entry 2025-11-04 00:59:39 (#389)
 - **Activity:** Practiced NumPy broadcasting and vectorized ops
 - **Reflection:** Need to explore this further with real datasets.
+
+### Entry 2025-11-05 00:59:39 (#390)
+- **Activity:** Revisited AWS IAM roles and policy best practices
+- **Reflection:** Found an interesting paper to read next.
