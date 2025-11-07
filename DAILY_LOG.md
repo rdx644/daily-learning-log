@@ -1584,3 +1584,7 @@ Auto-updated via contribution script.
 ### Entry 2025-11-07 00:59:39 (#395)
 - **Activity:** Reviewed ML pipeline optimization techniques
 - **Reflection:** Linked concept to real-world threat detection.
+
+### Entry 2025-11-07 00:59:39 (#396)
+- **Activity:** Studied OAuth 2.0 and JWT token flows
+- **Reflection:** Made progress on understanding core abstractions.
