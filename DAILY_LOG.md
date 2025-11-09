@@ -1588,3 +1588,7 @@ Auto-updated via contribution script.
 ### Entry 2025-11-07 00:59:39 (#396)
 - **Activity:** Studied OAuth 2.0 and JWT token flows
 - **Reflection:** Made progress on understanding core abstractions.
+
+### Entry 2025-11-09 00:59:39 (#397)
+- **Activity:** Practiced sorting algorithm analysis and comparison
+- **Reflection:** Linked concept to real-world threat detection.
