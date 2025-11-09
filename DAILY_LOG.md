@@ -1592,3 +1592,7 @@ Auto-updated via contribution script.
 ### Entry 2025-11-09 00:59:39 (#397)
 - **Activity:** Practiced sorting algorithm analysis and comparison
 - **Reflection:** Linked concept to real-world threat detection.
+
+### Entry 2025-11-09 00:59:39 (#398)
+- **Activity:** Explored Apache Kafka event streaming concepts
+- **Reflection:** Linked concept to real-world threat detection.
