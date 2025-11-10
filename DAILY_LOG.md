@@ -1604,3 +1604,7 @@ Auto-updated via contribution script.
 ### Entry 2025-11-10 00:59:39 (#400)
 - **Activity:** Practiced dynamic programming — knapsack problem
 - **Reflection:** Good reference material found — bookmarked.
+
+### Entry 2025-11-10 00:59:39 (#401)
+- **Activity:** Practiced sorting algorithm analysis and comparison
+- **Reflection:** Linked concept to real-world threat detection.
