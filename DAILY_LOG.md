@@ -1608,3 +1608,7 @@ Auto-updated via contribution script.
 ### Entry 2025-11-10 00:59:39 (#401)
 - **Activity:** Practiced sorting algorithm analysis and comparison
 - **Reflection:** Linked concept to real-world threat detection.
+
+### Entry 2025-11-10 00:59:39 (#402)
+- **Activity:** Studied Logistic Regression hyperparameter tuning
+- **Reflection:** Connected this to my Cyber Shield AI project.
