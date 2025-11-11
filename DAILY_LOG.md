@@ -1632,3 +1632,7 @@ Auto-updated via contribution script.
 ### Entry 2025-11-11 00:59:39 (#407)
 - **Activity:** Read about Random Forest ensemble methods
 - **Reflection:** Good reference material found — bookmarked.
+
+### Entry 2025-11-11 00:59:39 (#408)
+- **Activity:** Explored Supabase real-time subscriptions
+- **Reflection:** Linked concept to real-world threat detection.
