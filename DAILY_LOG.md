@@ -1624,3 +1624,7 @@ Auto-updated via contribution script.
 ### Entry 2025-11-10 00:59:39 (#405)
 - **Activity:** Practiced dynamic programming — knapsack problem
 - **Reflection:** Need to explore this further with real datasets.
+
+### Entry 2025-11-11 00:59:39 (#406)
+- **Activity:** Practiced heap and priority queue implementations
+- **Reflection:** Built a small prototype to test the concept.
