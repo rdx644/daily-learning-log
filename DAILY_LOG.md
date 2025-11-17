@@ -1708,3 +1708,7 @@ Auto-updated via contribution script.
 ### Entry 2025-11-17 00:59:39 (#426)
 - **Activity:** Explored anomaly detection using Isolation Forest
 - **Reflection:** Good reference material found — bookmarked.
+
+### Entry 2025-11-17 00:59:39 (#427)
+- **Activity:** Explored Redis caching strategies for web apps
+- **Reflection:** Traced implementation path from theory to code.
