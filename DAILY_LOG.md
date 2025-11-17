@@ -1704,3 +1704,7 @@ Auto-updated via contribution script.
 ### Entry 2025-11-17 00:59:39 (#425)
 - **Activity:** Reviewed ML pipeline optimization techniques
 - **Reflection:** Practice problem solved — will revisit edge cases.
+
+### Entry 2025-11-17 00:59:39 (#426)
+- **Activity:** Explored anomaly detection using Isolation Forest
+- **Reflection:** Good reference material found — bookmarked.
