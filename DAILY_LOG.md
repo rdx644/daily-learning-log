@@ -1716,3 +1716,7 @@ Auto-updated via contribution script.
 ### Entry 2025-11-18 00:59:39 (#428)
 - **Activity:** Revisited AWS IAM roles and policy best practices
 - **Reflection:** Built a small prototype to test the concept.
+
+### Entry 2025-11-18 00:59:39 (#429)
+- **Activity:** Practiced SQL window functions and query optimization
+- **Reflection:** This will be useful for future cloud security work.
