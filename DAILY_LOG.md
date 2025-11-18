@@ -1732,3 +1732,7 @@ Auto-updated via contribution script.
 ### Entry 2025-11-18 00:59:39 (#432)
 - **Activity:** Practiced SQL window functions and query optimization
 - **Reflection:** Practice problem solved — will revisit edge cases.
+
+### Entry 2025-11-18 00:59:39 (#433)
+- **Activity:** Practiced heap and priority queue implementations
+- **Reflection:** Built a small prototype to test the concept.
