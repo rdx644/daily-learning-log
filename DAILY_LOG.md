@@ -1712,3 +1712,7 @@ Auto-updated via contribution script.
 ### Entry 2025-11-17 00:59:39 (#427)
 - **Activity:** Explored Redis caching strategies for web apps
 - **Reflection:** Traced implementation path from theory to code.
+
+### Entry 2025-11-18 00:59:39 (#428)
+- **Activity:** Revisited AWS IAM roles and policy best practices
+- **Reflection:** Built a small prototype to test the concept.
