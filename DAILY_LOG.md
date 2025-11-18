@@ -1720,3 +1720,7 @@ Auto-updated via contribution script.
 ### Entry 2025-11-18 00:59:39 (#429)
 - **Activity:** Practiced SQL window functions and query optimization
 - **Reflection:** This will be useful for future cloud security work.
+
+### Entry 2025-11-18 00:59:39 (#430)
+- **Activity:** Practiced binary search tree operations
+- **Reflection:** Practice problem solved — will revisit edge cases.
