@@ -1728,3 +1728,7 @@ Auto-updated via contribution script.
 ### Entry 2025-11-18 00:59:39 (#431)
 - **Activity:** Studied Logistic Regression hyperparameter tuning
 - **Reflection:** Traced implementation path from theory to code.
+
+### Entry 2025-11-18 00:59:39 (#432)
+- **Activity:** Practiced SQL window functions and query optimization
+- **Reflection:** Practice problem solved — will revisit edge cases.
