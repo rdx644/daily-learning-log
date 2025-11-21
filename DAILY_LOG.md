@@ -1772,3 +1772,7 @@ Auto-updated via contribution script.
 ### Entry 2025-11-21 00:59:39 (#442)
 - **Activity:** Studied Logistic Regression hyperparameter tuning
 - **Reflection:** Linked concept to real-world threat detection.
+
+### Entry 2025-11-21 00:59:39 (#443)
+- **Activity:** Studied GAN architecture for image generation
+- **Reflection:** Compared multiple approaches — documented trade-offs.
