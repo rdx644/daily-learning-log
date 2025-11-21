@@ -1768,3 +1768,7 @@ Auto-updated via contribution script.
 ### Entry 2025-11-21 00:59:39 (#441)
 - **Activity:** Explored CI/CD pipeline setup with GitHub Actions
 - **Reflection:** Practice problem solved — will revisit edge cases.
+
+### Entry 2025-11-21 00:59:39 (#442)
+- **Activity:** Studied Logistic Regression hyperparameter tuning
+- **Reflection:** Linked concept to real-world threat detection.
