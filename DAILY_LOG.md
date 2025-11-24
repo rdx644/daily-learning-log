@@ -1816,3 +1816,7 @@ Auto-updated via contribution script.
 ### Entry 2025-11-24 00:59:39 (#453)
 - **Activity:** Read about K-Means clustering for user behaviour analytics
 - **Reflection:** Compared multiple approaches — documented trade-offs.
+
+### Entry 2025-11-24 00:59:39 (#454)
+- **Activity:** Read about K-Means clustering for user behaviour analytics
+- **Reflection:** Noting this for my ML Summer School prep.
