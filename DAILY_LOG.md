@@ -1824,3 +1824,7 @@ Auto-updated via contribution script.
 ### Entry 2025-11-25 00:59:39 (#455)
 - **Activity:** Reviewed Python async I/O and concurrency patterns
 - **Reflection:** Traced implementation path from theory to code.
+
+### Entry 2025-11-25 00:59:39 (#456)
+- **Activity:** Studied OAuth 2.0 and JWT token flows
+- **Reflection:** Identified a gap in my understanding — will revisit.
