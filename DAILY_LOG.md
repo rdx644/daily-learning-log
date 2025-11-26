@@ -1836,3 +1836,7 @@ Auto-updated via contribution script.
 ### Entry 2025-11-26 00:59:39 (#458)
 - **Activity:** Studied OAuth 2.0 and JWT token flows
 - **Reflection:** This will be useful for future cloud security work.
+
+### Entry 2025-11-26 00:59:39 (#459)
+- **Activity:** Studied OAuth 2.0 and JWT token flows
+- **Reflection:** Practice problem solved — will revisit edge cases.
