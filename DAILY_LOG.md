@@ -1832,3 +1832,7 @@ Auto-updated via contribution script.
 ### Entry 2025-11-26 00:59:39 (#457)
 - **Activity:** Implemented REST API endpoint validation
 - **Reflection:** Found an interesting paper to read next.
+
+### Entry 2025-11-26 00:59:39 (#458)
+- **Activity:** Studied OAuth 2.0 and JWT token flows
+- **Reflection:** This will be useful for future cloud security work.
