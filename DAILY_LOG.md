@@ -1848,3 +1848,7 @@ Auto-updated via contribution script.
 ### Entry 2025-11-26 00:59:39 (#461)
 - **Activity:** Read about Random Forest ensemble methods
 - **Reflection:** Built a small prototype to test the concept.
+
+### Entry 2025-11-26 00:59:39 (#462)
+- **Activity:** Studied Logistic Regression hyperparameter tuning
+- **Reflection:** This pattern appears frequently in production systems.
