@@ -1852,3 +1852,7 @@ Auto-updated via contribution script.
 ### Entry 2025-11-26 00:59:39 (#462)
 - **Activity:** Studied Logistic Regression hyperparameter tuning
 - **Reflection:** This pattern appears frequently in production systems.
+
+### Entry 2025-11-27 00:59:39 (#463)
+- **Activity:** Practiced heap and priority queue implementations
+- **Reflection:** Made progress on understanding core abstractions.
