@@ -1856,3 +1856,7 @@ Auto-updated via contribution script.
 ### Entry 2025-11-27 00:59:39 (#463)
 - **Activity:** Practiced heap and priority queue implementations
 - **Reflection:** Made progress on understanding core abstractions.
+
+### Entry 2025-11-27 00:59:39 (#464)
+- **Activity:** Practiced binary search tree operations
+- **Reflection:** Linked concept to real-world threat detection.
