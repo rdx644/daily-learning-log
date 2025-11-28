@@ -1872,3 +1872,7 @@ Auto-updated via contribution script.
 ### Entry 2025-11-28 00:59:39 (#467)
 - **Activity:** Practiced dynamic programming — knapsack problem
 - **Reflection:** Traced implementation path from theory to code.
+
+### Entry 2025-11-28 00:59:39 (#468)
+- **Activity:** Reviewed Firebase authentication flow patterns
+- **Reflection:** Identified a gap in my understanding — will revisit.
