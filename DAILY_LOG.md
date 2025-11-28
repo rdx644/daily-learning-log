@@ -1868,3 +1868,7 @@ Auto-updated via contribution script.
 ### Entry 2025-11-27 00:59:39 (#466)
 - **Activity:** Studied Logistic Regression hyperparameter tuning
 - **Reflection:** Compared multiple approaches — documented trade-offs.
+
+### Entry 2025-11-28 00:59:39 (#467)
+- **Activity:** Practiced dynamic programming — knapsack problem
+- **Reflection:** Traced implementation path from theory to code.
