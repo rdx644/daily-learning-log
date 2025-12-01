@@ -1892,3 +1892,7 @@ Auto-updated via contribution script.
 ### Entry 2025-12-01 00:59:39 (#472)
 - **Activity:** Reviewed Docker and container orchestration concepts
 - **Reflection:** Compared multiple approaches — documented trade-offs.
+
+### Entry 2025-12-01 00:59:39 (#473)
+- **Activity:** Explored anomaly detection using Isolation Forest
+- **Reflection:** Key takeaway: simplicity beats complexity in production.
