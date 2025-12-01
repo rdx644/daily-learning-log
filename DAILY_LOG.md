@@ -1888,3 +1888,7 @@ Auto-updated via contribution script.
 ### Entry 2025-11-30 00:59:39 (#471)
 - **Activity:** Practiced TF-IDF vectorization on text datasets
 - **Reflection:** Practice problem solved — will revisit edge cases.
+
+### Entry 2025-12-01 00:59:39 (#472)
+- **Activity:** Reviewed Docker and container orchestration concepts
+- **Reflection:** Compared multiple approaches — documented trade-offs.
