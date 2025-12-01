@@ -1900,3 +1900,7 @@ Auto-updated via contribution script.
 ### Entry 2025-12-01 00:59:39 (#474)
 - **Activity:** Explored Kubernetes pod scheduling strategies
 - **Reflection:** Need to explore this further with real datasets.
+
+### Entry 2025-12-01 00:59:39 (#475)
+- **Activity:** Explored Redis caching strategies for web apps
+- **Reflection:** Noting this for my ML Summer School prep.
