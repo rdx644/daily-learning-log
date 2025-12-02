@@ -1904,3 +1904,7 @@ Auto-updated via contribution script.
 ### Entry 2025-12-01 00:59:39 (#475)
 - **Activity:** Explored Redis caching strategies for web apps
 - **Reflection:** Noting this for my ML Summer School prep.
+
+### Entry 2025-12-02 00:59:39 (#476)
+- **Activity:** Read about K-Means clustering for user behaviour analytics
+- **Reflection:** Identified a gap in my understanding — will revisit.
