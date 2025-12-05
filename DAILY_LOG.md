@@ -1928,3 +1928,7 @@ Auto-updated via contribution script.
 ### Entry 2025-12-03 00:59:39 (#481)
 - **Activity:** Reviewed ML pipeline optimization techniques
 - **Reflection:** Made progress on understanding core abstractions.
+
+### Entry 2025-12-05 00:59:39 (#482)
+- **Activity:** Practiced heap and priority queue implementations
+- **Reflection:** Traced implementation path from theory to code.
