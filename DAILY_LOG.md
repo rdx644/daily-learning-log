@@ -1948,3 +1948,7 @@ Auto-updated via contribution script.
 ### Entry 2025-12-08 00:59:39 (#486)
 - **Activity:** Reviewed React state management patterns
 - **Reflection:** Practice problem solved — will revisit edge cases.
+
+### Entry 2025-12-08 00:59:39 (#487)
+- **Activity:** Studied Logistic Regression hyperparameter tuning
+- **Reflection:** Compared multiple approaches — documented trade-offs.
