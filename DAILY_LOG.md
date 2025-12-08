@@ -1960,3 +1960,7 @@ Auto-updated via contribution script.
 ### Entry 2025-12-08 00:59:39 (#489)
 - **Activity:** Implemented REST API endpoint validation
 - **Reflection:** Compared multiple approaches — documented trade-offs.
+
+### Entry 2025-12-08 00:59:39 (#490)
+- **Activity:** Read about K-Means clustering for user behaviour analytics
+- **Reflection:** Need to explore this further with real datasets.
