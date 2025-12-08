@@ -1952,3 +1952,7 @@ Auto-updated via contribution script.
 ### Entry 2025-12-08 00:59:39 (#487)
 - **Activity:** Studied Logistic Regression hyperparameter tuning
 - **Reflection:** Compared multiple approaches — documented trade-offs.
+
+### Entry 2025-12-08 00:59:39 (#488)
+- **Activity:** Reviewed Firebase authentication flow patterns
+- **Reflection:** Built a small prototype to test the concept.
