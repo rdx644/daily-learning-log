@@ -1940,3 +1940,7 @@ Auto-updated via contribution script.
 ### Entry 2025-12-08 00:59:39 (#484)
 - **Activity:** Studied convolutional neural network architectures
 - **Reflection:** Identified a gap in my understanding — will revisit.
+
+### Entry 2025-12-08 00:59:39 (#485)
+- **Activity:** Studied Transformer architecture attention mechanisms
+- **Reflection:** Good reference material found — bookmarked.
