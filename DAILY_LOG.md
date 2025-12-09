@@ -1968,3 +1968,7 @@ Auto-updated via contribution script.
 ### Entry 2025-12-09 00:59:39 (#491)
 - **Activity:** Read about Random Forest ensemble methods
 - **Reflection:** Made progress on understanding core abstractions.
+
+### Entry 2025-12-09 00:59:39 (#492)
+- **Activity:** Explored anomaly detection using Isolation Forest
+- **Reflection:** Linked concept to real-world threat detection.
