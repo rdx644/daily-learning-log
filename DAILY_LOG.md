@@ -1984,3 +1984,7 @@ Auto-updated via contribution script.
 ### Entry 2025-12-09 00:59:39 (#495)
 - **Activity:** Explored Apache Kafka event streaming concepts
 - **Reflection:** Good reference material found — bookmarked.
+
+### Entry 2025-12-09 00:59:39 (#496)
+- **Activity:** Explored Supabase real-time subscriptions
+- **Reflection:** This will be useful for future cloud security work.
