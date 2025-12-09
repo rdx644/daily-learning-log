@@ -1964,3 +1964,7 @@ Auto-updated via contribution script.
 ### Entry 2025-12-08 00:59:39 (#490)
 - **Activity:** Read about K-Means clustering for user behaviour analytics
 - **Reflection:** Need to explore this further with real datasets.
+
+### Entry 2025-12-09 00:59:39 (#491)
+- **Activity:** Read about Random Forest ensemble methods
+- **Reflection:** Made progress on understanding core abstractions.
