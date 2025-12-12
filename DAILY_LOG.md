@@ -2000,3 +2000,7 @@ Auto-updated via contribution script.
 ### Entry 2025-12-10 00:59:39 (#499)
 - **Activity:** Practiced heap and priority queue implementations
 - **Reflection:** Key takeaway: simplicity beats complexity in production.
+
+### Entry 2025-12-12 00:59:39 (#500)
+- **Activity:** Practiced dynamic programming — knapsack problem
+- **Reflection:** Traced implementation path from theory to code.
