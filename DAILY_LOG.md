@@ -2008,3 +2008,7 @@ Auto-updated via contribution script.
 ### Entry 2025-12-13 00:59:39 (#501)
 - **Activity:** Practiced TF-IDF vectorization on text datasets
 - **Reflection:** Need to explore this further with real datasets.
+
+### Entry 2025-12-13 00:59:39 (#502)
+- **Activity:** Practiced heap and priority queue implementations
+- **Reflection:** Compared multiple approaches — documented trade-offs.
