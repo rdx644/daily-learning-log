@@ -2004,3 +2004,7 @@ Auto-updated via contribution script.
 ### Entry 2025-12-12 00:59:39 (#500)
 - **Activity:** Practiced dynamic programming — knapsack problem
 - **Reflection:** Traced implementation path from theory to code.
+
+### Entry 2025-12-13 00:59:39 (#501)
+- **Activity:** Practiced TF-IDF vectorization on text datasets
+- **Reflection:** Need to explore this further with real datasets.
