@@ -2012,3 +2012,7 @@ Auto-updated via contribution script.
 ### Entry 2025-12-13 00:59:39 (#502)
 - **Activity:** Practiced heap and priority queue implementations
 - **Reflection:** Compared multiple approaches — documented trade-offs.
+
+### Entry 2025-12-15 00:59:39 (#503)
+- **Activity:** Reviewed Firebase authentication flow patterns
+- **Reflection:** Need to explore this further with real datasets.
