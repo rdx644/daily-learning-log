@@ -2020,3 +2020,7 @@ Auto-updated via contribution script.
 ### Entry 2025-12-15 00:59:39 (#504)
 - **Activity:** Reviewed Terraform infrastructure-as-code modules
 - **Reflection:** Connected this to my Cyber Shield AI project.
+
+### Entry 2025-12-16 00:59:39 (#505)
+- **Activity:** Revisited AWS IAM roles and policy best practices
+- **Reflection:** Traced implementation path from theory to code.
