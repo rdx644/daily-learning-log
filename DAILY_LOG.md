@@ -2024,3 +2024,7 @@ Auto-updated via contribution script.
 ### Entry 2025-12-16 00:59:39 (#505)
 - **Activity:** Revisited AWS IAM roles and policy best practices
 - **Reflection:** Traced implementation path from theory to code.
+
+### Entry 2025-12-16 00:59:39 (#506)
+- **Activity:** Explored anomaly detection using Isolation Forest
+- **Reflection:** Noting this for my ML Summer School prep.
