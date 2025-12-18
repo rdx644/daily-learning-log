@@ -2028,3 +2028,7 @@ Auto-updated via contribution script.
 ### Entry 2025-12-16 00:59:39 (#506)
 - **Activity:** Explored anomaly detection using Isolation Forest
 - **Reflection:** Noting this for my ML Summer School prep.
+
+### Entry 2025-12-18 00:59:39 (#507)
+- **Activity:** Studied Transformer architecture attention mechanisms
+- **Reflection:** Practice problem solved — will revisit edge cases.
