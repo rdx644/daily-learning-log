@@ -2052,3 +2052,7 @@ Auto-updated via contribution script.
 ### Entry 2025-12-19 00:59:39 (#512)
 - **Activity:** Reviewed React state management patterns
 - **Reflection:** Practice problem solved — will revisit edge cases.
+
+### Entry 2025-12-19 00:59:39 (#513)
+- **Activity:** Explored serverless deployment with AWS Lambda
+- **Reflection:** Made progress on understanding core abstractions.
