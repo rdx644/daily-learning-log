@@ -2056,3 +2056,7 @@ Auto-updated via contribution script.
 ### Entry 2025-12-19 00:59:39 (#513)
 - **Activity:** Explored serverless deployment with AWS Lambda
 - **Reflection:** Made progress on understanding core abstractions.
+
+### Entry 2025-12-21 00:59:39 (#514)
+- **Activity:** Reviewed Firebase authentication flow patterns
+- **Reflection:** This will be useful for future cloud security work.
