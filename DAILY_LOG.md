@@ -2060,3 +2060,7 @@ Auto-updated via contribution script.
 ### Entry 2025-12-21 00:59:39 (#514)
 - **Activity:** Reviewed Firebase authentication flow patterns
 - **Reflection:** This will be useful for future cloud security work.
+
+### Entry 2025-12-24 00:59:39 (#515)
+- **Activity:** Studied attention mechanism in NLP models
+- **Reflection:** Practice problem solved — will revisit edge cases.
