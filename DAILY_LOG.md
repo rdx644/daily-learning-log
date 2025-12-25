@@ -2076,3 +2076,7 @@ Auto-updated via contribution script.
 ### Entry 2025-12-25 00:59:39 (#518)
 - **Activity:** Practiced NumPy broadcasting and vectorized ops
 - **Reflection:** Linked concept to real-world threat detection.
+
+### Entry 2025-12-25 00:59:39 (#519)
+- **Activity:** Studied OAuth 2.0 and JWT token flows
+- **Reflection:** Linked concept to real-world threat detection.
