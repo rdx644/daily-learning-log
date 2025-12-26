@@ -2112,3 +2112,7 @@ Auto-updated via contribution script.
 ### Entry 2025-12-26 00:59:39 (#527)
 - **Activity:** Studied attention mechanism in NLP models
 - **Reflection:** Noting this for my ML Summer School prep.
+
+### Entry 2025-12-26 00:59:39 (#528)
+- **Activity:** Reviewed network packet analysis with Wireshark
+- **Reflection:** Practice problem solved — will revisit edge cases.
