@@ -2116,3 +2116,7 @@ Auto-updated via contribution script.
 ### Entry 2025-12-26 00:59:39 (#528)
 - **Activity:** Reviewed network packet analysis with Wireshark
 - **Reflection:** Practice problem solved — will revisit edge cases.
+
+### Entry 2025-12-26 00:59:39 (#529)
+- **Activity:** Reviewed Firebase authentication flow patterns
+- **Reflection:** Noting this for my ML Summer School prep.
