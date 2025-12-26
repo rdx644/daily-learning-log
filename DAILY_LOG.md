@@ -2108,3 +2108,7 @@ Auto-updated via contribution script.
 ### Entry 2025-12-26 00:59:39 (#526)
 - **Activity:** Revisited AWS IAM roles and policy best practices
 - **Reflection:** Good reference material found — bookmarked.
+
+### Entry 2025-12-26 00:59:39 (#527)
+- **Activity:** Studied attention mechanism in NLP models
+- **Reflection:** Noting this for my ML Summer School prep.
