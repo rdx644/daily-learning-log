@@ -2124,3 +2124,7 @@ Auto-updated via contribution script.
 ### Entry 2025-12-27 00:59:39 (#530)
 - **Activity:** Practiced graph traversal algorithms (BFS/DFS)
 - **Reflection:** Linked concept to real-world threat detection.
+
+### Entry 2025-12-27 00:59:39 (#531)
+- **Activity:** Explored Redis caching strategies for web apps
+- **Reflection:** Need to explore this further with real datasets.
