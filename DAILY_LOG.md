@@ -2228,3 +2228,7 @@ Auto-updated via contribution script.
 ### Entry 2026-01-02 00:59:39 (#556)
 - **Activity:** Read about K-Means clustering for user behaviour analytics
 - **Reflection:** Found an interesting paper to read next.
+
+### Entry 2026-01-02 00:59:39 (#557)
+- **Activity:** Reviewed network packet analysis with Wireshark
+- **Reflection:** Linked concept to real-world threat detection.
