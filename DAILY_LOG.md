@@ -2268,3 +2268,7 @@ Auto-updated via contribution script.
 ### Entry 2026-01-05 00:59:39 (#566)
 - **Activity:** Read about Random Forest ensemble methods
 - **Reflection:** Found an interesting paper to read next.
+
+### Entry 2026-01-05 00:59:39 (#567)
+- **Activity:** Practiced dynamic programming — knapsack problem
+- **Reflection:** Noting this for my ML Summer School prep.
