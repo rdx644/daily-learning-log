@@ -2272,3 +2272,7 @@ Auto-updated via contribution script.
 ### Entry 2026-01-05 00:59:39 (#567)
 - **Activity:** Practiced dynamic programming — knapsack problem
 - **Reflection:** Noting this for my ML Summer School prep.
+
+### Entry 2026-01-06 00:59:39 (#568)
+- **Activity:** Practiced TF-IDF vectorization on text datasets
+- **Reflection:** Traced implementation path from theory to code.
