@@ -2300,3 +2300,7 @@ Auto-updated via contribution script.
 ### Entry 2026-01-08 00:59:39 (#574)
 - **Activity:** Read about K-Means clustering for user behaviour analytics
 - **Reflection:** Noting this for my ML Summer School prep.
+
+### Entry 2026-01-08 00:59:39 (#575)
+- **Activity:** Revisited AWS IAM roles and policy best practices
+- **Reflection:** This pattern appears frequently in production systems.
