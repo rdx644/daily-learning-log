@@ -2316,3 +2316,7 @@ Auto-updated via contribution script.
 ### Entry 2026-01-08 00:59:39 (#578)
 - **Activity:** Practiced graph traversal algorithms (BFS/DFS)
 - **Reflection:** This will be useful for future cloud security work.
+
+### Entry 2026-01-09 00:59:39 (#579)
+- **Activity:** Studied Transformer architecture attention mechanisms
+- **Reflection:** Traced implementation path from theory to code.
