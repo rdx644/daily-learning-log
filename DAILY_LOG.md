@@ -2324,3 +2324,7 @@ Auto-updated via contribution script.
 ### Entry 2026-01-09 00:59:39 (#580)
 - **Activity:** Studied reinforcement learning reward functions
 - **Reflection:** Traced implementation path from theory to code.
+
+### Entry 2026-01-09 00:59:39 (#581)
+- **Activity:** Explored Kubernetes pod scheduling strategies
+- **Reflection:** Linked concept to real-world threat detection.
