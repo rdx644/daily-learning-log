@@ -2344,3 +2344,7 @@ Auto-updated via contribution script.
 ### Entry 2026-01-11 00:59:39 (#585)
 - **Activity:** Studied attention mechanism in NLP models
 - **Reflection:** Connected this to my Cyber Shield AI project.
+
+### Entry 2026-01-11 00:59:39 (#586)
+- **Activity:** Practiced NumPy broadcasting and vectorized ops
+- **Reflection:** Linked concept to real-world threat detection.
