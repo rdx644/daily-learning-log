@@ -2356,3 +2356,7 @@ Auto-updated via contribution script.
 ### Entry 2026-01-13 00:59:39 (#588)
 - **Activity:** Practiced binary search tree operations
 - **Reflection:** Linked concept to real-world threat detection.
+
+### Entry 2026-01-13 00:59:39 (#589)
+- **Activity:** Practiced LeetCode — arrays and dynamic programming
+- **Reflection:** Compared multiple approaches — documented trade-offs.
