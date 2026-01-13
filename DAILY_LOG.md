@@ -2360,3 +2360,7 @@ Auto-updated via contribution script.
 ### Entry 2026-01-13 00:59:39 (#589)
 - **Activity:** Practiced LeetCode — arrays and dynamic programming
 - **Reflection:** Compared multiple approaches — documented trade-offs.
+
+### Entry 2026-01-13 00:59:39 (#590)
+- **Activity:** Practiced graph traversal algorithms (BFS/DFS)
+- **Reflection:** Connected this to my Cyber Shield AI project.
