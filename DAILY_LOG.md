@@ -2380,3 +2380,7 @@ Auto-updated via contribution script.
 ### Entry 2026-01-16 00:59:39 (#594)
 - **Activity:** Explored Supabase real-time subscriptions
 - **Reflection:** Identified a gap in my understanding — will revisit.
+
+### Entry 2026-01-17 00:59:39 (#595)
+- **Activity:** Reviewed PostgreSQL indexing and performance tuning
+- **Reflection:** Built a small prototype to test the concept.
