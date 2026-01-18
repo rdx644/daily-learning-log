@@ -2396,3 +2396,7 @@ Auto-updated via contribution script.
 ### Entry 2026-01-17 00:59:39 (#598)
 - **Activity:** Practiced linked list reversal algorithms
 - **Reflection:** This pattern appears frequently in production systems.
+
+### Entry 2026-01-18 00:59:39 (#599)
+- **Activity:** Practiced SQL window functions and query optimization
+- **Reflection:** Linked concept to real-world threat detection.
