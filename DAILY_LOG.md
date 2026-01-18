@@ -2400,3 +2400,7 @@ Auto-updated via contribution script.
 ### Entry 2026-01-18 00:59:39 (#599)
 - **Activity:** Practiced SQL window functions and query optimization
 - **Reflection:** Linked concept to real-world threat detection.
+
+### Entry 2026-01-18 00:59:39 (#600)
+- **Activity:** Practiced heap and priority queue implementations
+- **Reflection:** Compared multiple approaches — documented trade-offs.
