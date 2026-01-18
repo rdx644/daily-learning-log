@@ -2404,3 +2404,7 @@ Auto-updated via contribution script.
 ### Entry 2026-01-18 00:59:39 (#600)
 - **Activity:** Practiced heap and priority queue implementations
 - **Reflection:** Compared multiple approaches — documented trade-offs.
+
+### Entry 2026-01-18 00:59:39 (#601)
+- **Activity:** Reviewed PostgreSQL indexing and performance tuning
+- **Reflection:** Key takeaway: simplicity beats complexity in production.
