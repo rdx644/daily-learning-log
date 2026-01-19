@@ -2420,3 +2420,7 @@ Auto-updated via contribution script.
 ### Entry 2026-01-19 00:59:39 (#604)
 - **Activity:** Explored anomaly detection using Isolation Forest
 - **Reflection:** Noting this for my ML Summer School prep.
+
+### Entry 2026-01-19 00:59:39 (#605)
+- **Activity:** Reviewed Firebase authentication flow patterns
+- **Reflection:** Practice problem solved — will revisit edge cases.
