@@ -2432,3 +2432,7 @@ Auto-updated via contribution script.
 ### Entry 2026-01-19 00:59:39 (#607)
 - **Activity:** Practiced graph traversal algorithms (BFS/DFS)
 - **Reflection:** Noting this for my ML Summer School prep.
+
+### Entry 2026-01-20 00:59:39 (#608)
+- **Activity:** Studied Transformer architecture attention mechanisms
+- **Reflection:** This will be useful for future cloud security work.
