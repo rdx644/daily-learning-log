@@ -2468,3 +2468,7 @@ Auto-updated via contribution script.
 ### Entry 2026-01-21 00:59:39 (#616)
 - **Activity:** Read about Random Forest ensemble methods
 - **Reflection:** Built a small prototype to test the concept.
+
+### Entry 2026-01-21 00:59:39 (#617)
+- **Activity:** Explored serverless deployment with AWS Lambda
+- **Reflection:** Need to explore this further with real datasets.
