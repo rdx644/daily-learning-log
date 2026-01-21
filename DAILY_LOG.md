@@ -2448,3 +2448,7 @@ Auto-updated via contribution script.
 ### Entry 2026-01-21 00:59:39 (#611)
 - **Activity:** Studied BERT fine-tuning for text classification
 - **Reflection:** Built a small prototype to test the concept.
+
+### Entry 2026-01-21 00:59:39 (#612)
+- **Activity:** Practiced SQL window functions and query optimization
+- **Reflection:** Good reference material found — bookmarked.
