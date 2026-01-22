@@ -2472,3 +2472,7 @@ Auto-updated via contribution script.
 ### Entry 2026-01-21 00:59:39 (#617)
 - **Activity:** Explored serverless deployment with AWS Lambda
 - **Reflection:** Need to explore this further with real datasets.
+
+### Entry 2026-01-22 00:59:39 (#618)
+- **Activity:** Practiced dynamic programming — knapsack problem
+- **Reflection:** Connected this to my Cyber Shield AI project.
