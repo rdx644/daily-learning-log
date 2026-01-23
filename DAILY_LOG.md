@@ -2500,3 +2500,7 @@ Auto-updated via contribution script.
 ### Entry 2026-01-23 00:59:39 (#624)
 - **Activity:** Explored WebSocket real-time communication patterns
 - **Reflection:** This pattern appears frequently in production systems.
+
+### Entry 2026-01-23 00:59:39 (#625)
+- **Activity:** Read about K-Means clustering for user behaviour analytics
+- **Reflection:** Noting this for my ML Summer School prep.
