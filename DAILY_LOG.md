@@ -2508,3 +2508,7 @@ Auto-updated via contribution script.
 ### Entry 2026-01-23 00:59:39 (#626)
 - **Activity:** Studied OAuth 2.0 and JWT token flows
 - **Reflection:** Found an interesting paper to read next.
+
+### Entry 2026-01-23 00:59:39 (#627)
+- **Activity:** Explored serverless deployment with AWS Lambda
+- **Reflection:** Built a small prototype to test the concept.
