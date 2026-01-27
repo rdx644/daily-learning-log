@@ -2532,3 +2532,7 @@ Auto-updated via contribution script.
 ### Entry 2026-01-26 00:59:39 (#632)
 - **Activity:** Practiced linked list reversal algorithms
 - **Reflection:** Compared multiple approaches — documented trade-offs.
+
+### Entry 2026-01-27 00:59:39 (#633)
+- **Activity:** Practiced LeetCode — arrays and dynamic programming
+- **Reflection:** Compared multiple approaches — documented trade-offs.
