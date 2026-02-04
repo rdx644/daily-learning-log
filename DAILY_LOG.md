@@ -2648,3 +2648,7 @@ Auto-updated via contribution script.
 ### Entry 2026-02-04 00:59:39 (#661)
 - **Activity:** Practiced graph traversal algorithms (BFS/DFS)
 - **Reflection:** Made progress on understanding core abstractions.
+
+### Entry 2026-02-04 00:59:39 (#662)
+- **Activity:** Read about K-Means clustering for user behaviour analytics
+- **Reflection:** Noting this for my ML Summer School prep.
