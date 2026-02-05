@@ -2668,3 +2668,7 @@ Auto-updated via contribution script.
 ### Entry 2026-02-05 00:59:39 (#666)
 - **Activity:** Practiced graph traversal algorithms (BFS/DFS)
 - **Reflection:** Built a small prototype to test the concept.
+
+### Entry 2026-02-05 00:59:39 (#667)
+- **Activity:** Explored serverless deployment with AWS Lambda
+- **Reflection:** Compared multiple approaches — documented trade-offs.
