@@ -2652,3 +2652,7 @@ Auto-updated via contribution script.
 ### Entry 2026-02-04 00:59:39 (#662)
 - **Activity:** Read about K-Means clustering for user behaviour analytics
 - **Reflection:** Noting this for my ML Summer School prep.
+
+### Entry 2026-02-05 00:59:39 (#663)
+- **Activity:** Reviewed Firebase authentication flow patterns
+- **Reflection:** Traced implementation path from theory to code.
