@@ -2684,3 +2684,7 @@ Auto-updated via contribution script.
 ### Entry 2026-02-06 00:59:39 (#670)
 - **Activity:** Practiced sorting algorithm analysis and comparison
 - **Reflection:** Need to explore this further with real datasets.
+
+### Entry 2026-02-06 00:59:39 (#671)
+- **Activity:** Practiced dynamic programming — knapsack problem
+- **Reflection:** Key takeaway: simplicity beats complexity in production.
