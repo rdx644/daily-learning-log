@@ -2688,3 +2688,7 @@ Auto-updated via contribution script.
 ### Entry 2026-02-06 00:59:39 (#671)
 - **Activity:** Practiced dynamic programming — knapsack problem
 - **Reflection:** Key takeaway: simplicity beats complexity in production.
+
+### Entry 2026-02-06 00:59:39 (#672)
+- **Activity:** Explored Redis caching strategies for web apps
+- **Reflection:** Noting this for my ML Summer School prep.
