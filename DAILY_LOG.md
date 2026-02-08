@@ -2708,3 +2708,7 @@ Auto-updated via contribution script.
 ### Entry 2026-02-08 00:59:39 (#676)
 - **Activity:** Implemented REST API endpoint validation
 - **Reflection:** Compared multiple approaches — documented trade-offs.
+
+### Entry 2026-02-08 00:59:39 (#677)
+- **Activity:** Practiced dynamic programming — knapsack problem
+- **Reflection:** Key takeaway: simplicity beats complexity in production.
