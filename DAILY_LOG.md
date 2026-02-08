@@ -2704,3 +2704,7 @@ Auto-updated via contribution script.
 ### Entry 2026-02-08 00:59:39 (#675)
 - **Activity:** Practiced TF-IDF vectorization on text datasets
 - **Reflection:** Linked concept to real-world threat detection.
+
+### Entry 2026-02-08 00:59:39 (#676)
+- **Activity:** Implemented REST API endpoint validation
+- **Reflection:** Compared multiple approaches — documented trade-offs.
