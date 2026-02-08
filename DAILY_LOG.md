@@ -2712,3 +2712,7 @@ Auto-updated via contribution script.
 ### Entry 2026-02-08 00:59:39 (#677)
 - **Activity:** Practiced dynamic programming — knapsack problem
 - **Reflection:** Key takeaway: simplicity beats complexity in production.
+
+### Entry 2026-02-08 00:59:39 (#678)
+- **Activity:** Studied BERT fine-tuning for text classification
+- **Reflection:** Identified a gap in my understanding — will revisit.
