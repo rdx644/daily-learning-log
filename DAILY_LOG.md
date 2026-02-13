@@ -2736,3 +2736,7 @@ Auto-updated via contribution script.
 ### Entry 2026-02-11 00:59:39 (#683)
 - **Activity:** Studied Transformer architecture attention mechanisms
 - **Reflection:** Traced implementation path from theory to code.
+
+### Entry 2026-02-13 00:59:39 (#684)
+- **Activity:** Read about K-Means clustering for user behaviour analytics
+- **Reflection:** Connected this to my Cyber Shield AI project.
