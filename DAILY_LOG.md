@@ -2772,3 +2772,7 @@ Auto-updated via contribution script.
 ### Entry 2026-02-15 00:59:39 (#692)
 - **Activity:** Studied attention mechanism in NLP models
 - **Reflection:** Need to explore this further with real datasets.
+
+### Entry 2026-02-15 00:59:39 (#693)
+- **Activity:** Explored serverless deployment with AWS Lambda
+- **Reflection:** Built a small prototype to test the concept.
