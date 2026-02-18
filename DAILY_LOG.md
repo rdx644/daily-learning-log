@@ -2808,3 +2808,7 @@ Auto-updated via contribution script.
 ### Entry 2026-02-18 00:59:39 (#701)
 - **Activity:** Explored CI/CD pipeline setup with GitHub Actions
 - **Reflection:** Compared multiple approaches — documented trade-offs.
+
+### Entry 2026-02-18 00:59:39 (#702)
+- **Activity:** Explored Apache Kafka event streaming concepts
+- **Reflection:** Linked concept to real-world threat detection.
