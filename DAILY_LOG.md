@@ -2804,3 +2804,7 @@ Auto-updated via contribution script.
 ### Entry 2026-02-17 00:59:39 (#700)
 - **Activity:** Practiced sorting algorithm analysis and comparison
 - **Reflection:** Found an interesting paper to read next.
+
+### Entry 2026-02-18 00:59:39 (#701)
+- **Activity:** Explored CI/CD pipeline setup with GitHub Actions
+- **Reflection:** Compared multiple approaches — documented trade-offs.
