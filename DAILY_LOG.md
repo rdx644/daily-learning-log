@@ -2832,3 +2832,7 @@ Auto-updated via contribution script.
 ### Entry 2026-02-22 00:59:39 (#707)
 - **Activity:** Practiced linked list reversal algorithms
 - **Reflection:** Made progress on understanding core abstractions.
+
+### Entry 2026-02-22 00:59:39 (#708)
+- **Activity:** Studied Transformer architecture attention mechanisms
+- **Reflection:** Noting this for my ML Summer School prep.
