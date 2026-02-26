@@ -2872,3 +2872,7 @@ Auto-updated via contribution script.
 ### Entry 2026-02-26 00:59:39 (#717)
 - **Activity:** Studied reinforcement learning reward functions
 - **Reflection:** Built a small prototype to test the concept.
+
+### Entry 2026-02-26 00:59:39 (#718)
+- **Activity:** Studied attention mechanism in NLP models
+- **Reflection:** This will be useful for future cloud security work.
