@@ -2860,3 +2860,7 @@ Auto-updated via contribution script.
 ### Entry 2026-02-24 00:59:39 (#714)
 - **Activity:** Studied reinforcement learning reward functions
 - **Reflection:** Compared multiple approaches — documented trade-offs.
+
+### Entry 2026-02-26 00:59:39 (#715)
+- **Activity:** Reviewed network packet analysis with Wireshark
+- **Reflection:** Noting this for my ML Summer School prep.
