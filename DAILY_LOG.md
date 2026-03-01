@@ -2904,3 +2904,7 @@ Auto-updated via contribution script.
 ### Entry 2026-03-01 00:59:39 (#725)
 - **Activity:** Reviewed network packet analysis with Wireshark
 - **Reflection:** Connected this to my Cyber Shield AI project.
+
+### Entry 2026-03-01 00:59:39 (#726)
+- **Activity:** Studied reinforcement learning reward functions
+- **Reflection:** Compared multiple approaches — documented trade-offs.
