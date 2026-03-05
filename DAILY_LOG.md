@@ -2956,3 +2956,7 @@ Auto-updated via contribution script.
 ### Entry 2026-03-04 00:59:39 (#738)
 - **Activity:** Read about Random Forest ensemble methods
 - **Reflection:** Built a small prototype to test the concept.
+
+### Entry 2026-03-05 00:59:39 (#739)
+- **Activity:** Studied reinforcement learning reward functions
+- **Reflection:** Found an interesting paper to read next.
