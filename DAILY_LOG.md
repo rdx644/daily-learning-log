@@ -2968,3 +2968,7 @@ Auto-updated via contribution script.
 ### Entry 2026-03-06 00:59:39 (#741)
 - **Activity:** Revisited AWS IAM roles and policy best practices
 - **Reflection:** Need to explore this further with real datasets.
+
+### Entry 2026-03-06 00:59:39 (#742)
+- **Activity:** Explored Kubernetes pod scheduling strategies
+- **Reflection:** Compared multiple approaches — documented trade-offs.
