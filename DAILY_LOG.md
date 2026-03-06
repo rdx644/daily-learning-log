@@ -2964,3 +2964,7 @@ Auto-updated via contribution script.
 ### Entry 2026-03-05 00:59:39 (#740)
 - **Activity:** Practiced TF-IDF vectorization on text datasets
 - **Reflection:** Built a small prototype to test the concept.
+
+### Entry 2026-03-06 00:59:39 (#741)
+- **Activity:** Revisited AWS IAM roles and policy best practices
+- **Reflection:** Need to explore this further with real datasets.
