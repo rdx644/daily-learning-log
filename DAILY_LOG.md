@@ -2992,3 +2992,7 @@ Auto-updated via contribution script.
 ### Entry 2026-03-08 00:59:39 (#747)
 - **Activity:** Explored Supabase real-time subscriptions
 - **Reflection:** Key takeaway: simplicity beats complexity in production.
+
+### Entry 2026-03-09 00:59:39 (#748)
+- **Activity:** Explored anomaly detection using Isolation Forest
+- **Reflection:** Built a small prototype to test the concept.
