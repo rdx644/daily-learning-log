@@ -3004,3 +3004,7 @@ Auto-updated via contribution script.
 ### Entry 2026-03-09 00:59:39 (#750)
 - **Activity:** Reviewed Docker and container orchestration concepts
 - **Reflection:** Connected this to my Cyber Shield AI project.
+
+### Entry 2026-03-09 00:59:39 (#751)
+- **Activity:** Practiced LeetCode — arrays and dynamic programming
+- **Reflection:** Compared multiple approaches — documented trade-offs.
