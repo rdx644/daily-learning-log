@@ -3028,3 +3028,7 @@ Auto-updated via contribution script.
 ### Entry 2026-03-10 00:59:39 (#756)
 - **Activity:** Studied convolutional neural network architectures
 - **Reflection:** Made progress on understanding core abstractions.
+
+### Entry 2026-03-10 00:59:39 (#757)
+- **Activity:** Practiced dynamic programming — knapsack problem
+- **Reflection:** Key takeaway: simplicity beats complexity in production.
