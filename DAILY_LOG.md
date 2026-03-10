@@ -3032,3 +3032,7 @@ Auto-updated via contribution script.
 ### Entry 2026-03-10 00:59:39 (#757)
 - **Activity:** Practiced dynamic programming — knapsack problem
 - **Reflection:** Key takeaway: simplicity beats complexity in production.
+
+### Entry 2026-03-10 00:59:39 (#758)
+- **Activity:** Explored Supabase real-time subscriptions
+- **Reflection:** Compared multiple approaches — documented trade-offs.
