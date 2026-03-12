@@ -3036,3 +3036,7 @@ Auto-updated via contribution script.
 ### Entry 2026-03-10 00:59:39 (#758)
 - **Activity:** Explored Supabase real-time subscriptions
 - **Reflection:** Compared multiple approaches — documented trade-offs.
+
+### Entry 2026-03-12 00:59:39 (#759)
+- **Activity:** Revisited AWS IAM roles and policy best practices
+- **Reflection:** Key takeaway: simplicity beats complexity in production.
