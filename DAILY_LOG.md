@@ -3080,3 +3080,7 @@ Auto-updated via contribution script.
 ### Entry 2026-03-13 00:59:39 (#769)
 - **Activity:** Read about K-Means clustering for user behaviour analytics
 - **Reflection:** Compared multiple approaches — documented trade-offs.
+
+### Entry 2026-03-13 00:59:39 (#770)
+- **Activity:** Reviewed ML pipeline optimization techniques
+- **Reflection:** Need to explore this further with real datasets.
