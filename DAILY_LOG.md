@@ -3088,3 +3088,7 @@ Auto-updated via contribution script.
 ### Entry 2026-03-14 00:59:39 (#771)
 - **Activity:** Explored serverless deployment with AWS Lambda
 - **Reflection:** Noting this for my ML Summer School prep.
+
+### Entry 2026-03-14 00:59:39 (#772)
+- **Activity:** Explored Apache Kafka event streaming concepts
+- **Reflection:** Practice problem solved — will revisit edge cases.
