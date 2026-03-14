@@ -3084,3 +3084,7 @@ Auto-updated via contribution script.
 ### Entry 2026-03-13 00:59:39 (#770)
 - **Activity:** Reviewed ML pipeline optimization techniques
 - **Reflection:** Need to explore this further with real datasets.
+
+### Entry 2026-03-14 00:59:39 (#771)
+- **Activity:** Explored serverless deployment with AWS Lambda
+- **Reflection:** Noting this for my ML Summer School prep.
