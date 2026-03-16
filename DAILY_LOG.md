@@ -3096,3 +3096,7 @@ Auto-updated via contribution script.
 ### Entry 2026-03-14 00:59:39 (#773)
 - **Activity:** Reviewed network packet analysis with Wireshark
 - **Reflection:** This will be useful for future cloud security work.
+
+### Entry 2026-03-16 00:59:39 (#774)
+- **Activity:** Reviewed Docker and container orchestration concepts
+- **Reflection:** Found an interesting paper to read next.
