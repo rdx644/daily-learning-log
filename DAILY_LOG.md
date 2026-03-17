@@ -3112,3 +3112,7 @@ Auto-updated via contribution script.
 ### Entry 2026-03-16 00:59:39 (#777)
 - **Activity:** Studied Logistic Regression hyperparameter tuning
 - **Reflection:** Noting this for my ML Summer School prep.
+
+### Entry 2026-03-17 00:59:39 (#778)
+- **Activity:** Studied attention mechanism in NLP models
+- **Reflection:** This will be useful for future cloud security work.
