@@ -3120,3 +3120,7 @@ Auto-updated via contribution script.
 ### Entry 2026-03-17 00:59:39 (#779)
 - **Activity:** Studied Logistic Regression hyperparameter tuning
 - **Reflection:** Found an interesting paper to read next.
+
+### Entry 2026-03-17 00:59:39 (#780)
+- **Activity:** Read about K-Means clustering for user behaviour analytics
+- **Reflection:** Good reference material found — bookmarked.
