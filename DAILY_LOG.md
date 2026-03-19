@@ -3144,3 +3144,7 @@ Auto-updated via contribution script.
 ### Entry 2026-03-19 00:59:39 (#785)
 - **Activity:** Reviewed Docker and container orchestration concepts
 - **Reflection:** Practice problem solved — will revisit edge cases.
+
+### Entry 2026-03-19 00:59:39 (#786)
+- **Activity:** Revisited AWS IAM roles and policy best practices
+- **Reflection:** Connected this to my Cyber Shield AI project.
