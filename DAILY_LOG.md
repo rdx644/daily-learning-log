@@ -3164,3 +3164,7 @@ Auto-updated via contribution script.
 ### Entry 2026-03-20 00:59:39 (#790)
 - **Activity:** Explored Supabase real-time subscriptions
 - **Reflection:** Practice problem solved — will revisit edge cases.
+
+### Entry 2026-03-20 00:59:39 (#791)
+- **Activity:** Practiced heap and priority queue implementations
+- **Reflection:** Practice problem solved — will revisit edge cases.
