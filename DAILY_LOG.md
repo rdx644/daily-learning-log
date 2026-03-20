@@ -3168,3 +3168,7 @@ Auto-updated via contribution script.
 ### Entry 2026-03-20 00:59:39 (#791)
 - **Activity:** Practiced heap and priority queue implementations
 - **Reflection:** Practice problem solved — will revisit edge cases.
+
+### Entry 2026-03-20 00:59:39 (#792)
+- **Activity:** Studied Transformer architecture attention mechanisms
+- **Reflection:** Made progress on understanding core abstractions.
