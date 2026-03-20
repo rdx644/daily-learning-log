@@ -3160,3 +3160,7 @@ Auto-updated via contribution script.
 ### Entry 2026-03-20 00:59:39 (#789)
 - **Activity:** Reviewed network packet analysis with Wireshark
 - **Reflection:** Noting this for my ML Summer School prep.
+
+### Entry 2026-03-20 00:59:39 (#790)
+- **Activity:** Explored Supabase real-time subscriptions
+- **Reflection:** Practice problem solved — will revisit edge cases.
