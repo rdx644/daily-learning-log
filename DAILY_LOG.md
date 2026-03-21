@@ -3180,3 +3180,7 @@ Auto-updated via contribution script.
 ### Entry 2026-03-21 00:59:39 (#794)
 - **Activity:** Studied OAuth 2.0 and JWT token flows
 - **Reflection:** Key takeaway: simplicity beats complexity in production.
+
+### Entry 2026-03-21 00:59:39 (#795)
+- **Activity:** Explored serverless deployment with AWS Lambda
+- **Reflection:** Linked concept to real-world threat detection.
