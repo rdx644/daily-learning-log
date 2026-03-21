@@ -3172,3 +3172,7 @@ Auto-updated via contribution script.
 ### Entry 2026-03-20 00:59:39 (#792)
 - **Activity:** Studied Transformer architecture attention mechanisms
 - **Reflection:** Made progress on understanding core abstractions.
+
+### Entry 2026-03-21 00:59:39 (#793)
+- **Activity:** Practiced graph traversal algorithms (BFS/DFS)
+- **Reflection:** Compared multiple approaches — documented trade-offs.
