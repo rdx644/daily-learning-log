@@ -3204,3 +3204,7 @@ Auto-updated via contribution script.
 ### Entry 2026-03-22 00:59:39 (#800)
 - **Activity:** Read about Random Forest ensemble methods
 - **Reflection:** Identified a gap in my understanding — will revisit.
+
+### Entry 2026-03-22 00:59:39 (#801)
+- **Activity:** Studied OAuth 2.0 and JWT token flows
+- **Reflection:** Linked concept to real-world threat detection.
