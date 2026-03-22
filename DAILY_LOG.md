@@ -3192,3 +3192,7 @@ Auto-updated via contribution script.
 ### Entry 2026-03-21 00:59:39 (#797)
 - **Activity:** Explored Apache Kafka event streaming concepts
 - **Reflection:** Good reference material found — bookmarked.
+
+### Entry 2026-03-22 00:59:39 (#798)
+- **Activity:** Practiced dynamic programming — knapsack problem
+- **Reflection:** Key takeaway: simplicity beats complexity in production.
