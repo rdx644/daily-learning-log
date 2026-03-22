@@ -3208,3 +3208,7 @@ Auto-updated via contribution script.
 ### Entry 2026-03-22 00:59:39 (#801)
 - **Activity:** Studied OAuth 2.0 and JWT token flows
 - **Reflection:** Linked concept to real-world threat detection.
+
+### Entry 2026-03-22 00:59:39 (#802)
+- **Activity:** Explored Apache Kafka event streaming concepts
+- **Reflection:** Noting this for my ML Summer School prep.
