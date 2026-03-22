@@ -3196,3 +3196,7 @@ Auto-updated via contribution script.
 ### Entry 2026-03-22 00:59:39 (#798)
 - **Activity:** Practiced dynamic programming — knapsack problem
 - **Reflection:** Key takeaway: simplicity beats complexity in production.
+
+### Entry 2026-03-22 00:59:39 (#799)
+- **Activity:** Practiced binary search tree operations
+- **Reflection:** Need to explore this further with real datasets.
