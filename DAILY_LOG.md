@@ -3216,3 +3216,7 @@ Auto-updated via contribution script.
 ### Entry 2026-03-23 00:59:39 (#803)
 - **Activity:** Revisited AWS IAM roles and policy best practices
 - **Reflection:** Compared multiple approaches — documented trade-offs.
+
+### Entry 2026-03-23 00:59:39 (#804)
+- **Activity:** Studied OAuth 2.0 and JWT token flows
+- **Reflection:** Built a small prototype to test the concept.
