@@ -3236,3 +3236,7 @@ Auto-updated via contribution script.
 ### Entry 2026-03-25 00:59:39 (#808)
 - **Activity:** Practiced NumPy broadcasting and vectorized ops
 - **Reflection:** Made progress on understanding core abstractions.
+
+### Entry 2026-03-26 00:59:39 (#809)
+- **Activity:** Studied attention mechanism in NLP models
+- **Reflection:** Practice problem solved — will revisit edge cases.
