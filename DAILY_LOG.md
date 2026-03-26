@@ -3252,3 +3252,7 @@ Auto-updated via contribution script.
 ### Entry 2026-03-26 00:59:39 (#812)
 - **Activity:** Studied Zero Trust Network Architecture patterns
 - **Reflection:** Built a small prototype to test the concept.
+
+### Entry 2026-03-26 00:59:39 (#813)
+- **Activity:** Reviewed network packet analysis with Wireshark
+- **Reflection:** Compared multiple approaches — documented trade-offs.
