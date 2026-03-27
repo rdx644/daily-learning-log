@@ -3264,3 +3264,7 @@ Auto-updated via contribution script.
 ### Entry 2026-03-27 00:59:39 (#815)
 - **Activity:** Revisited AWS IAM roles and policy best practices
 - **Reflection:** Noting this for my ML Summer School prep.
+
+### Entry 2026-03-27 00:59:39 (#816)
+- **Activity:** Practiced binary search tree operations
+- **Reflection:** Linked concept to real-world threat detection.
