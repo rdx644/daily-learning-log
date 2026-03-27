@@ -3256,3 +3256,7 @@ Auto-updated via contribution script.
 ### Entry 2026-03-26 00:59:39 (#813)
 - **Activity:** Reviewed network packet analysis with Wireshark
 - **Reflection:** Compared multiple approaches — documented trade-offs.
+
+### Entry 2026-03-27 00:59:39 (#814)
+- **Activity:** Revisited AWS IAM roles and policy best practices
+- **Reflection:** Noting this for my ML Summer School prep.
