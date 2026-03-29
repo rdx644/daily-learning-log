@@ -3268,3 +3268,7 @@ Auto-updated via contribution script.
 ### Entry 2026-03-27 00:59:39 (#816)
 - **Activity:** Practiced binary search tree operations
 - **Reflection:** Linked concept to real-world threat detection.
+
+### Entry 2026-03-29 00:59:39 (#817)
+- **Activity:** Explored WebSocket real-time communication patterns
+- **Reflection:** Built a small prototype to test the concept.
