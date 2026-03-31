@@ -3276,3 +3276,7 @@ Auto-updated via contribution script.
 ### Entry 2026-03-30 00:59:39 (#818)
 - **Activity:** Explored Apache Kafka event streaming concepts
 - **Reflection:** Traced implementation path from theory to code.
+
+### Entry 2026-03-31 00:59:39 (#819)
+- **Activity:** Practiced NumPy broadcasting and vectorized ops
+- **Reflection:** Noting this for my ML Summer School prep.
