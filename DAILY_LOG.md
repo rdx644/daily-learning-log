@@ -3288,3 +3288,7 @@ Auto-updated via contribution script.
 ### Entry 2026-04-01 00:59:39 (#821)
 - **Activity:** Explored Supabase real-time subscriptions
 - **Reflection:** Traced implementation path from theory to code.
+
+### Entry 2026-04-02 00:59:39 (#822)
+- **Activity:** Studied Logistic Regression hyperparameter tuning
+- **Reflection:** Compared multiple approaches — documented trade-offs.
