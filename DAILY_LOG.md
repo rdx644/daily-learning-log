@@ -3304,3 +3304,7 @@ Auto-updated via contribution script.
 ### Entry 2026-04-03 00:59:39 (#825)
 - **Activity:** Practiced SQL window functions and query optimization
 - **Reflection:** Compared multiple approaches — documented trade-offs.
+
+### Entry 2026-04-03 00:59:39 (#826)
+- **Activity:** Studied convolutional neural network architectures
+- **Reflection:** Identified a gap in my understanding — will revisit.
