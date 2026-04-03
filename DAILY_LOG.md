@@ -3312,3 +3312,7 @@ Auto-updated via contribution script.
 ### Entry 2026-04-03 00:59:39 (#827)
 - **Activity:** Studied Transformer architecture attention mechanisms
 - **Reflection:** Compared multiple approaches — documented trade-offs.
+
+### Entry 2026-04-03 00:59:39 (#828)
+- **Activity:** Practiced heap and priority queue implementations
+- **Reflection:** This pattern appears frequently in production systems.
