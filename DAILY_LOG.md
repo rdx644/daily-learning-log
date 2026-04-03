@@ -3292,3 +3292,7 @@ Auto-updated via contribution script.
 ### Entry 2026-04-02 00:59:39 (#822)
 - **Activity:** Studied Logistic Regression hyperparameter tuning
 - **Reflection:** Compared multiple approaches — documented trade-offs.
+
+### Entry 2026-04-03 00:59:39 (#823)
+- **Activity:** Studied reinforcement learning reward functions
+- **Reflection:** Good reference material found — bookmarked.
