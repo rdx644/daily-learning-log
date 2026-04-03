@@ -3300,3 +3300,7 @@ Auto-updated via contribution script.
 ### Entry 2026-04-03 00:59:39 (#824)
 - **Activity:** Explored Supabase real-time subscriptions
 - **Reflection:** Traced implementation path from theory to code.
+
+### Entry 2026-04-03 00:59:39 (#825)
+- **Activity:** Practiced SQL window functions and query optimization
+- **Reflection:** Compared multiple approaches — documented trade-offs.
