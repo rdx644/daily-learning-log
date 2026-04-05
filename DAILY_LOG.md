@@ -3320,3 +3320,7 @@ Auto-updated via contribution script.
 ### Entry 2026-04-05 00:59:39 (#829)
 - **Activity:** Explored CI/CD pipeline setup with GitHub Actions
 - **Reflection:** Key takeaway: simplicity beats complexity in production.
+
+### Entry 2026-04-05 00:59:39 (#830)
+- **Activity:** Explored serverless deployment with AWS Lambda
+- **Reflection:** Practice problem solved — will revisit edge cases.
