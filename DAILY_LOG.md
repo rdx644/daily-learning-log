@@ -3324,3 +3324,7 @@ Auto-updated via contribution script.
 ### Entry 2026-04-05 00:59:39 (#830)
 - **Activity:** Explored serverless deployment with AWS Lambda
 - **Reflection:** Practice problem solved — will revisit edge cases.
+
+### Entry 2026-04-06 00:59:39 (#831)
+- **Activity:** Revisited AWS IAM roles and policy best practices
+- **Reflection:** Practice problem solved — will revisit edge cases.
