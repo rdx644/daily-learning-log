@@ -3340,3 +3340,7 @@ Auto-updated via contribution script.
 ### Entry 2026-04-09 00:59:39 (#834)
 - **Activity:** Practiced TF-IDF vectorization on text datasets
 - **Reflection:** Identified a gap in my understanding — will revisit.
+
+### Entry 2026-04-09 00:59:39 (#835)
+- **Activity:** Studied Logistic Regression hyperparameter tuning
+- **Reflection:** Identified a gap in my understanding — will revisit.
