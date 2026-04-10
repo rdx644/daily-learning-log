@@ -3344,3 +3344,7 @@ Auto-updated via contribution script.
 ### Entry 2026-04-09 00:59:39 (#835)
 - **Activity:** Studied Logistic Regression hyperparameter tuning
 - **Reflection:** Identified a gap in my understanding — will revisit.
+
+### Entry 2026-04-10 00:59:39 (#836)
+- **Activity:** Practiced SQL window functions and query optimization
+- **Reflection:** Linked concept to real-world threat detection.
