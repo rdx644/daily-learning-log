@@ -3368,3 +3368,7 @@ Auto-updated via contribution script.
 ### Entry 2026-04-14 00:59:39 (#841)
 - **Activity:** Reviewed PostgreSQL indexing and performance tuning
 - **Reflection:** Noting this for my ML Summer School prep.
+
+### Entry 2026-04-14 00:59:39 (#842)
+- **Activity:** Explored WebSocket real-time communication patterns
+- **Reflection:** Identified a gap in my understanding — will revisit.
