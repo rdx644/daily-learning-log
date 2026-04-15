@@ -3396,3 +3396,7 @@ Auto-updated via contribution script.
 ### Entry 2026-04-15 00:59:39 (#848)
 - **Activity:** Practiced heap and priority queue implementations
 - **Reflection:** Made progress on understanding core abstractions.
+
+### Entry 2026-04-15 00:59:39 (#849)
+- **Activity:** Studied convolutional neural network architectures
+- **Reflection:** Noting this for my ML Summer School prep.
