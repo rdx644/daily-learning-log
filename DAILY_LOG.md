@@ -3400,3 +3400,7 @@ Auto-updated via contribution script.
 ### Entry 2026-04-15 00:59:39 (#849)
 - **Activity:** Studied convolutional neural network architectures
 - **Reflection:** Noting this for my ML Summer School prep.
+
+### Entry 2026-04-15 00:59:39 (#850)
+- **Activity:** Explored anomaly detection using Isolation Forest
+- **Reflection:** Good reference material found — bookmarked.
