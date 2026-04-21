@@ -3424,3 +3424,7 @@ Auto-updated via contribution script.
 ### Entry 2026-04-21 00:59:39 (#855)
 - **Activity:** Studied OAuth 2.0 and JWT token flows
 - **Reflection:** Good reference material found — bookmarked.
+
+### Entry 2026-04-21 00:59:39 (#856)
+- **Activity:** Explored Supabase real-time subscriptions
+- **Reflection:** Made progress on understanding core abstractions.
