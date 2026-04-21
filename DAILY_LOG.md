@@ -3420,3 +3420,7 @@ Auto-updated via contribution script.
 ### Entry 2026-04-21 00:59:39 (#854)
 - **Activity:** Reviewed Firebase authentication flow patterns
 - **Reflection:** Noting this for my ML Summer School prep.
+
+### Entry 2026-04-21 00:59:39 (#855)
+- **Activity:** Studied OAuth 2.0 and JWT token flows
+- **Reflection:** Good reference material found — bookmarked.
