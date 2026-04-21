@@ -3428,3 +3428,7 @@ Auto-updated via contribution script.
 ### Entry 2026-04-21 00:59:39 (#856)
 - **Activity:** Explored Supabase real-time subscriptions
 - **Reflection:** Made progress on understanding core abstractions.
+
+### Entry 2026-04-21 00:59:39 (#857)
+- **Activity:** Studied attention mechanism in NLP models
+- **Reflection:** Traced implementation path from theory to code.
