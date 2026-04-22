@@ -3440,3 +3440,7 @@ Auto-updated via contribution script.
 ### Entry 2026-04-22 00:59:39 (#859)
 - **Activity:** Read about Random Forest ensemble methods
 - **Reflection:** This pattern appears frequently in production systems.
+
+### Entry 2026-04-22 00:59:39 (#860)
+- **Activity:** Practiced dynamic programming — knapsack problem
+- **Reflection:** Identified a gap in my understanding — will revisit.
