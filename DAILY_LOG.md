@@ -3460,3 +3460,7 @@ Auto-updated via contribution script.
 ### Entry 2026-04-25 00:59:39 (#864)
 - **Activity:** Studied Transformer architecture attention mechanisms
 - **Reflection:** Connected this to my Cyber Shield AI project.
+
+### Entry 2026-04-25 00:59:39 (#865)
+- **Activity:** Practiced binary search tree operations
+- **Reflection:** Compared multiple approaches — documented trade-offs.
