@@ -3448,3 +3448,7 @@ Auto-updated via contribution script.
 ### Entry 2026-04-24 00:59:39 (#861)
 - **Activity:** Explored serverless deployment with AWS Lambda
 - **Reflection:** Found an interesting paper to read next.
+
+### Entry 2026-04-25 00:59:39 (#862)
+- **Activity:** Reviewed Docker and container orchestration concepts
+- **Reflection:** Identified a gap in my understanding — will revisit.
