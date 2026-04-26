@@ -3476,3 +3476,7 @@ Auto-updated via contribution script.
 ### Entry 2026-04-25 00:59:39 (#868)
 - **Activity:** Practiced LeetCode — arrays and dynamic programming
 - **Reflection:** Identified a gap in my understanding — will revisit.
+
+### Entry 2026-04-26 00:59:39 (#869)
+- **Activity:** Practiced dynamic programming — knapsack problem
+- **Reflection:** Traced implementation path from theory to code.
