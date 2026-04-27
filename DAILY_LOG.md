@@ -3484,3 +3484,7 @@ Auto-updated via contribution script.
 ### Entry 2026-04-27 00:59:39 (#870)
 - **Activity:** Explored serverless deployment with AWS Lambda
 - **Reflection:** Good reference material found — bookmarked.
+
+### Entry 2026-04-27 00:59:39 (#871)
+- **Activity:** Reviewed Firebase authentication flow patterns
+- **Reflection:** Found an interesting paper to read next.
