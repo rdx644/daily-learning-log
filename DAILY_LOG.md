@@ -3480,3 +3480,7 @@ Auto-updated via contribution script.
 ### Entry 2026-04-26 00:59:39 (#869)
 - **Activity:** Practiced dynamic programming — knapsack problem
 - **Reflection:** Traced implementation path from theory to code.
+
+### Entry 2026-04-27 00:59:39 (#870)
+- **Activity:** Explored serverless deployment with AWS Lambda
+- **Reflection:** Good reference material found — bookmarked.
