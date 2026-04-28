@@ -3504,3 +3504,7 @@ Auto-updated via contribution script.
 ### Entry 2026-04-28 00:59:39 (#875)
 - **Activity:** Studied BERT fine-tuning for text classification
 - **Reflection:** Linked concept to real-world threat detection.
+
+### Entry 2026-04-28 00:59:39 (#876)
+- **Activity:** Practiced binary search tree operations
+- **Reflection:** Key takeaway: simplicity beats complexity in production.
