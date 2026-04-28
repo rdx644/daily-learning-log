@@ -3488,3 +3488,7 @@ Auto-updated via contribution script.
 ### Entry 2026-04-27 00:59:39 (#871)
 - **Activity:** Reviewed Firebase authentication flow patterns
 - **Reflection:** Found an interesting paper to read next.
+
+### Entry 2026-04-28 00:59:39 (#872)
+- **Activity:** Explored Kubernetes pod scheduling strategies
+- **Reflection:** Need to explore this further with real datasets.
