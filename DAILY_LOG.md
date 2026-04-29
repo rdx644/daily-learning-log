@@ -3512,3 +3512,7 @@ Auto-updated via contribution script.
 ### Entry 2026-04-29 00:59:39 (#877)
 - **Activity:** Read about K-Means clustering for user behaviour analytics
 - **Reflection:** Found an interesting paper to read next.
+
+### Entry 2026-04-29 00:59:39 (#878)
+- **Activity:** Practiced binary search tree operations
+- **Reflection:** Good reference material found — bookmarked.
