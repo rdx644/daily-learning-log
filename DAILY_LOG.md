@@ -3508,3 +3508,7 @@ Auto-updated via contribution script.
 ### Entry 2026-04-28 00:59:39 (#876)
 - **Activity:** Practiced binary search tree operations
 - **Reflection:** Key takeaway: simplicity beats complexity in production.
+
+### Entry 2026-04-29 00:59:39 (#877)
+- **Activity:** Read about K-Means clustering for user behaviour analytics
+- **Reflection:** Found an interesting paper to read next.
