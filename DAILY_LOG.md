@@ -3524,3 +3524,7 @@ Auto-updated via contribution script.
 ### Entry 2026-05-01 00:59:39 (#880)
 - **Activity:** Studied Zero Trust Network Architecture patterns
 - **Reflection:** Practice problem solved — will revisit edge cases.
+
+### Entry 2026-05-01 00:59:39 (#881)
+- **Activity:** Practiced heap and priority queue implementations
+- **Reflection:** Need to explore this further with real datasets.
