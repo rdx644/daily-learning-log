@@ -3544,3 +3544,7 @@ Auto-updated via contribution script.
 ### Entry 2026-05-01 00:59:39 (#885)
 - **Activity:** Studied attention mechanism in NLP models
 - **Reflection:** Linked concept to real-world threat detection.
+
+### Entry 2026-05-02 00:59:39 (#886)
+- **Activity:** Practiced sorting algorithm analysis and comparison
+- **Reflection:** Built a small prototype to test the concept.
