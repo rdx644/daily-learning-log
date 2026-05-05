@@ -3580,3 +3580,7 @@ Auto-updated via contribution script.
 ### Entry 2026-05-05 00:59:39 (#894)
 - **Activity:** Practiced TF-IDF vectorization on text datasets
 - **Reflection:** Noting this for my ML Summer School prep.
+
+### Entry 2026-05-05 00:59:39 (#895)
+- **Activity:** Explored WebSocket real-time communication patterns
+- **Reflection:** Linked concept to real-world threat detection.
