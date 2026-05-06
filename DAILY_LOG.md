@@ -3588,3 +3588,7 @@ Auto-updated via contribution script.
 ### Entry 2026-05-05 00:59:39 (#896)
 - **Activity:** Studied Zero Trust Network Architecture patterns
 - **Reflection:** Identified a gap in my understanding — will revisit.
+
+### Entry 2026-05-06 00:59:39 (#897)
+- **Activity:** Practiced LeetCode — arrays and dynamic programming
+- **Reflection:** Compared multiple approaches — documented trade-offs.
