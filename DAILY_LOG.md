@@ -3604,3 +3604,7 @@ Auto-updated via contribution script.
 ### Entry 2026-05-07 00:59:39 (#900)
 - **Activity:** Studied reinforcement learning reward functions
 - **Reflection:** Found an interesting paper to read next.
+
+### Entry 2026-05-07 00:59:39 (#901)
+- **Activity:** Practiced graph traversal algorithms (BFS/DFS)
+- **Reflection:** Identified a gap in my understanding — will revisit.
