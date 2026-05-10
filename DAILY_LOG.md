@@ -3628,3 +3628,7 @@ Auto-updated via contribution script.
 ### Entry 2026-05-09 00:59:39 (#906)
 - **Activity:** Explored CI/CD pipeline setup with GitHub Actions
 - **Reflection:** Compared multiple approaches — documented trade-offs.
+
+### Entry 2026-05-10 00:59:39 (#907)
+- **Activity:** Studied Logistic Regression hyperparameter tuning
+- **Reflection:** Noting this for my ML Summer School prep.
