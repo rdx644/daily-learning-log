@@ -3632,3 +3632,7 @@ Auto-updated via contribution script.
 ### Entry 2026-05-10 00:59:39 (#907)
 - **Activity:** Studied Logistic Regression hyperparameter tuning
 - **Reflection:** Noting this for my ML Summer School prep.
+
+### Entry 2026-05-12 00:59:39 (#908)
+- **Activity:** Reviewed Firebase authentication flow patterns
+- **Reflection:** Traced implementation path from theory to code.
