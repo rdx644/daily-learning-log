@@ -3684,3 +3684,7 @@ Auto-updated via contribution script.
 ### Entry 2026-05-19 00:59:39 (#920)
 - **Activity:** Explored CI/CD pipeline setup with GitHub Actions
 - **Reflection:** Identified a gap in my understanding — will revisit.
+
+### Entry 2026-05-20 00:59:39 (#921)
+- **Activity:** Reviewed network packet analysis with Wireshark
+- **Reflection:** This will be useful for future cloud security work.
