@@ -3700,3 +3700,7 @@ Auto-updated via contribution script.
 ### Entry 2026-05-20 00:59:39 (#924)
 - **Activity:** Practiced LeetCode — arrays and dynamic programming
 - **Reflection:** This pattern appears frequently in production systems.
+
+### Entry 2026-05-21 00:59:39 (#925)
+- **Activity:** Explored Supabase real-time subscriptions
+- **Reflection:** Built a small prototype to test the concept.
