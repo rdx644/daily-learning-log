@@ -3716,3 +3716,7 @@ Auto-updated via contribution script.
 ### Entry 2026-05-21 00:59:39 (#928)
 - **Activity:** Explored Apache Kafka event streaming concepts
 - **Reflection:** Identified a gap in my understanding — will revisit.
+
+### Entry 2026-05-21 00:59:39 (#929)
+- **Activity:** Studied OAuth 2.0 and JWT token flows
+- **Reflection:** Good reference material found — bookmarked.
