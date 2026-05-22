@@ -3720,3 +3720,7 @@ Auto-updated via contribution script.
 ### Entry 2026-05-21 00:59:39 (#929)
 - **Activity:** Studied OAuth 2.0 and JWT token flows
 - **Reflection:** Good reference material found — bookmarked.
+
+### Entry 2026-05-22 00:59:39 (#930)
+- **Activity:** Practiced dynamic programming — knapsack problem
+- **Reflection:** Compared multiple approaches — documented trade-offs.
