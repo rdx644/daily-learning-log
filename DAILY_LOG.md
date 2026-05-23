@@ -3756,3 +3756,7 @@ Auto-updated via contribution script.
 ### Entry 2026-05-23 00:59:39 (#938)
 - **Activity:** Reviewed Firebase authentication flow patterns
 - **Reflection:** Connected this to my Cyber Shield AI project.
+
+### Entry 2026-05-23 00:59:39 (#939)
+- **Activity:** Read about K-Means clustering for user behaviour analytics
+- **Reflection:** Noting this for my ML Summer School prep.
