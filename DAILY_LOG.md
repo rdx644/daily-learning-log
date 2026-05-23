@@ -3740,3 +3740,7 @@ Auto-updated via contribution script.
 ### Entry 2026-05-22 00:59:39 (#934)
 - **Activity:** Studied attention mechanism in NLP models
 - **Reflection:** Linked concept to real-world threat detection.
+
+### Entry 2026-05-23 00:59:39 (#935)
+- **Activity:** Explored anomaly detection using Isolation Forest
+- **Reflection:** Traced implementation path from theory to code.
