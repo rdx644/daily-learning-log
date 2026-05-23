@@ -3744,3 +3744,7 @@ Auto-updated via contribution script.
 ### Entry 2026-05-23 00:59:39 (#935)
 - **Activity:** Explored anomaly detection using Isolation Forest
 - **Reflection:** Traced implementation path from theory to code.
+
+### Entry 2026-05-23 00:59:39 (#936)
+- **Activity:** Practiced graph traversal algorithms (BFS/DFS)
+- **Reflection:** This will be useful for future cloud security work.
