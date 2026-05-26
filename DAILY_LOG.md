@@ -3776,3 +3776,7 @@ Auto-updated via contribution script.
 ### Entry 2026-05-26 00:59:39 (#943)
 - **Activity:** Practiced dynamic programming — knapsack problem
 - **Reflection:** Traced implementation path from theory to code.
+
+### Entry 2026-05-26 00:59:39 (#944)
+- **Activity:** Practiced SQL window functions and query optimization
+- **Reflection:** Key takeaway: simplicity beats complexity in production.
