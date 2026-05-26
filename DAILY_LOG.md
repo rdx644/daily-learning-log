@@ -3772,3 +3772,7 @@ Auto-updated via contribution script.
 ### Entry 2026-05-25 00:59:39 (#942)
 - **Activity:** Practiced TF-IDF vectorization on text datasets
 - **Reflection:** Compared multiple approaches — documented trade-offs.
+
+### Entry 2026-05-26 00:59:39 (#943)
+- **Activity:** Practiced dynamic programming — knapsack problem
+- **Reflection:** Traced implementation path from theory to code.
