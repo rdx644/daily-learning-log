@@ -3788,3 +3788,7 @@ Auto-updated via contribution script.
 ### Entry 2026-05-26 00:59:39 (#946)
 - **Activity:** Practiced graph traversal algorithms (BFS/DFS)
 - **Reflection:** Practice problem solved — will revisit edge cases.
+
+### Entry 2026-05-26 00:59:39 (#947)
+- **Activity:** Reviewed Docker and container orchestration concepts
+- **Reflection:** Linked concept to real-world threat detection.
