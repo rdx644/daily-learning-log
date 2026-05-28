@@ -3812,3 +3812,7 @@ Auto-updated via contribution script.
 ### Entry 2026-05-28 00:59:39 (#952)
 - **Activity:** Reviewed PostgreSQL indexing and performance tuning
 - **Reflection:** Built a small prototype to test the concept.
+
+### Entry 2026-05-28 00:59:39 (#953)
+- **Activity:** Studied Logistic Regression hyperparameter tuning
+- **Reflection:** Compared multiple approaches — documented trade-offs.
