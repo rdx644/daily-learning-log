@@ -3816,3 +3816,7 @@ Auto-updated via contribution script.
 ### Entry 2026-05-28 00:59:39 (#953)
 - **Activity:** Studied Logistic Regression hyperparameter tuning
 - **Reflection:** Compared multiple approaches — documented trade-offs.
+
+### Entry 2026-05-29 00:59:39 (#954)
+- **Activity:** Studied attention mechanism in NLP models
+- **Reflection:** Made progress on understanding core abstractions.
