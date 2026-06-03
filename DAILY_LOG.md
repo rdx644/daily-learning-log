@@ -3824,3 +3824,7 @@ Auto-updated via contribution script.
 ### Entry 2026-06-03 00:59:39 (#955)
 - **Activity:** Read about Random Forest ensemble methods
 - **Reflection:** Connected this to my Cyber Shield AI project.
+
+### Entry 2026-06-03 00:59:39 (#956)
+- **Activity:** Studied Transformer architecture attention mechanisms
+- **Reflection:** Key takeaway: simplicity beats complexity in production.
