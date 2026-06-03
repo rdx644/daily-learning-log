@@ -3832,3 +3832,7 @@ Auto-updated via contribution script.
 ### Entry 2026-06-03 00:59:39 (#957)
 - **Activity:** Practiced heap and priority queue implementations
 - **Reflection:** Need to explore this further with real datasets.
+
+### Entry 2026-06-03 00:59:39 (#958)
+- **Activity:** Reviewed network packet analysis with Wireshark
+- **Reflection:** Noting this for my ML Summer School prep.
