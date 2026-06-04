@@ -3840,3 +3840,7 @@ Auto-updated via contribution script.
 ### Entry 2026-06-04 00:59:39 (#959)
 - **Activity:** Reviewed network packet analysis with Wireshark
 - **Reflection:** Built a small prototype to test the concept.
+
+### Entry 2026-06-04 00:59:39 (#960)
+- **Activity:** Read about Random Forest ensemble methods
+- **Reflection:** Linked concept to real-world threat detection.
