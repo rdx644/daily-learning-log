@@ -3844,3 +3844,7 @@ Auto-updated via contribution script.
 ### Entry 2026-06-04 00:59:39 (#960)
 - **Activity:** Read about Random Forest ensemble methods
 - **Reflection:** Linked concept to real-world threat detection.
+
+### Entry 2026-06-04 00:59:39 (#961)
+- **Activity:** Revisited AWS IAM roles and policy best practices
+- **Reflection:** Key takeaway: simplicity beats complexity in production.
