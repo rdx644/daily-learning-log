@@ -3852,3 +3852,7 @@ Auto-updated via contribution script.
 ### Entry 2026-06-04 00:59:39 (#962)
 - **Activity:** Implemented REST API endpoint validation
 - **Reflection:** Key takeaway: simplicity beats complexity in production.
+
+### Entry 2026-06-05 00:59:39 (#963)
+- **Activity:** Read about K-Means clustering for user behaviour analytics
+- **Reflection:** Need to explore this further with real datasets.
