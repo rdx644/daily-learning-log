@@ -3868,3 +3868,7 @@ Auto-updated via contribution script.
 ### Entry 2026-06-06 00:59:39 (#966)
 - **Activity:** Studied OAuth 2.0 and JWT token flows
 - **Reflection:** Practice problem solved — will revisit edge cases.
+
+### Entry 2026-06-06 00:59:39 (#967)
+- **Activity:** Studied Zero Trust Network Architecture patterns
+- **Reflection:** Found an interesting paper to read next.
