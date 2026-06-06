@@ -3864,3 +3864,7 @@ Auto-updated via contribution script.
 ### Entry 2026-06-05 00:59:39 (#965)
 - **Activity:** Practiced sorting algorithm analysis and comparison
 - **Reflection:** Connected this to my Cyber Shield AI project.
+
+### Entry 2026-06-06 00:59:39 (#966)
+- **Activity:** Studied OAuth 2.0 and JWT token flows
+- **Reflection:** Practice problem solved — will revisit edge cases.
