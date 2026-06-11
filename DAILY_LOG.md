@@ -3900,3 +3900,7 @@ Auto-updated via contribution script.
 ### Entry 2026-06-11 00:59:39 (#974)
 - **Activity:** Read about Random Forest ensemble methods
 - **Reflection:** Key takeaway: simplicity beats complexity in production.
+
+### Entry 2026-06-11 00:59:39 (#975)
+- **Activity:** Practiced NumPy broadcasting and vectorized ops
+- **Reflection:** Identified a gap in my understanding — will revisit.
