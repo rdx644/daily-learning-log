@@ -3920,3 +3920,7 @@ Auto-updated via contribution script.
 ### Entry 2026-06-11 00:59:39 (#979)
 - **Activity:** Practiced binary search tree operations
 - **Reflection:** This will be useful for future cloud security work.
+
+### Entry 2026-06-12 00:59:39 (#980)
+- **Activity:** Practiced sorting algorithm analysis and comparison
+- **Reflection:** Noting this for my ML Summer School prep.
