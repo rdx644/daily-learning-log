@@ -3924,3 +3924,7 @@ Auto-updated via contribution script.
 ### Entry 2026-06-12 00:59:39 (#980)
 - **Activity:** Practiced sorting algorithm analysis and comparison
 - **Reflection:** Noting this for my ML Summer School prep.
+
+### Entry 2026-06-12 00:59:39 (#981)
+- **Activity:** Explored Redis caching strategies for web apps
+- **Reflection:** Good reference material found — bookmarked.
