@@ -3944,3 +3944,7 @@ Auto-updated via contribution script.
 ### Entry 2026-06-12 00:59:39 (#985)
 - **Activity:** Studied GAN architecture for image generation
 - **Reflection:** Noting this for my ML Summer School prep.
+
+### Entry 2026-06-13 00:59:39 (#986)
+- **Activity:** Studied Zero Trust Network Architecture patterns
+- **Reflection:** Key takeaway: simplicity beats complexity in production.
