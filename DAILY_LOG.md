@@ -3964,3 +3964,7 @@ Auto-updated via contribution script.
 ### Entry 2026-06-13 00:59:39 (#990)
 - **Activity:** Practiced binary search tree operations
 - **Reflection:** Good reference material found — bookmarked.
+
+### Entry 2026-06-13 00:59:39 (#991)
+- **Activity:** Practiced graph traversal algorithms (BFS/DFS)
+- **Reflection:** Made progress on understanding core abstractions.
