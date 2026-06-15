@@ -3972,3 +3972,7 @@ Auto-updated via contribution script.
 ### Entry 2026-06-13 00:59:39 (#992)
 - **Activity:** Reviewed React state management patterns
 - **Reflection:** Traced implementation path from theory to code.
+
+### Entry 2026-06-15 00:59:39 (#993)
+- **Activity:** Read about K-Means clustering for user behaviour analytics
+- **Reflection:** Built a small prototype to test the concept.
