@@ -3980,3 +3980,7 @@ Auto-updated via contribution script.
 ### Entry 2026-06-16 00:59:39 (#994)
 - **Activity:** Explored Supabase real-time subscriptions
 - **Reflection:** Identified a gap in my understanding — will revisit.
+
+### Entry 2026-06-16 00:59:39 (#995)
+- **Activity:** Explored serverless deployment with AWS Lambda
+- **Reflection:** Key takeaway: simplicity beats complexity in production.
