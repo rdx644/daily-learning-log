@@ -3976,3 +3976,7 @@ Auto-updated via contribution script.
 ### Entry 2026-06-15 00:59:39 (#993)
 - **Activity:** Read about K-Means clustering for user behaviour analytics
 - **Reflection:** Built a small prototype to test the concept.
+
+### Entry 2026-06-16 00:59:39 (#994)
+- **Activity:** Explored Supabase real-time subscriptions
+- **Reflection:** Identified a gap in my understanding — will revisit.
