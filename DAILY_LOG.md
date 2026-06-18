@@ -16,3 +16,7 @@ Auto-updated via contribution script.
 ### Entry 2026-06-18 23:29:01 (#3)
 - **Activity:** Reviewed ML pipeline optimization techniques
 - **Reflection:** Good reference material found — bookmarked.
+
+### Entry 2026-06-18 23:34:59 (#1)
+- **Activity:** Revisited AWS IAM roles and policy best practices
+- **Reflection:** Practice problem solved — will revisit edge cases.
