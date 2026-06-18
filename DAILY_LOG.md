@@ -36,3 +36,7 @@ Auto-updated via contribution script.
 ### Entry 2026-06-18 23:57:05 (#2)
 - **Activity:** Practiced NumPy broadcasting and vectorized ops
 - **Reflection:** Connected this to my Cyber Shield AI project architecture.
+
+### Entry 2026-06-18 23:57:05 (#3)
+- **Activity:** Reviewed ML pipeline optimization techniques
+- **Reflection:** Practice problem solved — will revisit edge cases.
