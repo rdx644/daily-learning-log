@@ -1,4 +1,4 @@
-# 📚 Daily Learning & Progress Log
+# Daily Learning & Progress Log
 
 A curated log of daily learning activities, study notes, and technical explorations.
 
